@@ -3,7 +3,7 @@ pagetitle: "Antoine Castet"
 output_dir: "docs"
 domain: antoinecastet.github.io
 url: https://antoinecastet.github.io
-name: Antoine Castet
+name: "Antoine Castet"
 
 navbar:
   left:
