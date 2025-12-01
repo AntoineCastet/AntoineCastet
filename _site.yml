@@ -1,0 +1,23 @@
+title: "Antoine Castet"
+pagetitle: "Antoine Castet"
+output_dir: "docs"
+domain: antoinecastet.github.io
+url: https://antoinecastet.github.io
+name: "Antoine Castet"
+
+navbar:
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "CV"
+      href: PDF/CV_Antoine_Castet.pdf
+output:
+  html_document:
+    theme: flatly
+    toc: false
+    toc_float: false
+    includes:
+      after_body: footer.Rhtml
+      in_header: hide-title.html

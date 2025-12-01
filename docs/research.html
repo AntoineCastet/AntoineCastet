@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Antoine Castet - Research</title>
+
+<script src="site_libs/header-attrs-2.30/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<style>
+h1.title {
+  display: none;
+}
+</style>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="PDF/CV_Antoine_Castet.pdf">CV</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Antoine Castet - Research</h1>
+
+</div>
+
+
+<div id="publications" class="section level1">
+<h1>Publications</h1>
+<div class="row align-items-center">
+<div class="col-md-6" style="margin-top:50px; padding-right:2.5px;">
+<p><img src="Images/WorldDevelopment.png" style="width:100%;"></p>
+</div>
+<div class="col-md-6" style="padding-left:2.5px; text-align:justify;">
+<ol style="list-style-type: decimal">
+<li><strong>The impact of large-scale land acquisitions on food security
+in Africa</strong>, <a
+href="https://doi.org/10.1016/j.worlddev.2024.106597"><strong>World
+Development</strong></a>, 179, July 2024. <a
+href="PDF/aa8269af-a102-4e7c-9a76-0427fdb18943.pdf">PDF</a></li>
+</ol>
+<div style="margin-left:25px; text-align:justify;">
+<p><strong>Abstract</strong>: <em>Food insecurity is a major concern in
+most African countries. Large-scale land acquisitions (LSLAs) frequently
+have a negative impact on local communities. In this paper, I examine
+the impact of LSLAs on the nutritional status of neighboring children.
+To this end, I use a difference-in-differences methodology applied to
+LSLAs in a large number of African countries at different times since
+the early 2000s. I analyze data from Demographic and Health Surveys
+combined with data from the Land Matrix Initiative, supplemented by my
+own research, ultimately covering 18,276 children living in the vicinity
+of 45 LSLAs. I show that LSLAs have had a significant negative impact on
+child nutrition in Africa over the past two decades. Specifically, the
+dietary diversity scores of children living close to LSLAs were reduced
+by 20 per cent after acquisition. The results are robust to various
+statistical tests. I find no changes in work status or household assets.
+While the impact of LSLAs may be positive for agricultural practices, it
+is negative for child food security. The analysis highlights the
+importance of supporting local communities following foreign
+agricultural investment.</em></p>
+</div>
+</div>
+</div>
+<div class="row align-items-center">
+<div class="col-md-6" style="margin-top:50px; padding-right:2.5px;">
+<p><img src="Images/RevueEconomie.png" style="width:100%;"></p>
+</div>
+<div class="col-md-6"
+style="margin-top:50px; padding-left:2.5px; text-align:justify;">
+<ol start="2" style="list-style-type: decimal">
+<li><strong>Food security and Covid-19: An analysis of the MENA
+region</strong>, with <a href="https://www.racharamadan.com/">Racha
+Ramadan</a>, <a
+href="https://www.cairn.info/revue-d-economie-du-developpement-2023-3-page-29.htm?contenu=article"><strong>Revue
+d’Économie du Développement</strong></a>, 33(3–4), 2023. <a
+href="PDF/castet-2023-la-securite-alimentaire-a-lepreuve-du-covid-19-une-analyse-de-la-region-moan.pdf">PDF</a></li>
+</ol>
+<div style="margin-left:25px; text-align:justify;">
+<p><strong>Abstract</strong>: <em>We study the food situation of
+households in five countries in the Middle East and North Africa region
+during the Covid-19 pandemic. We show that household food security was
+negatively affected during the pandemic.</em></p>
+</div>
+</div>
+</div>
+<hr style="border: 2px solid black;">
+</div>
+<div id="working-papers" class="section level1">
+<h1>Working papers</h1>
+<ol style="list-style-type: decimal">
+<li><strong>Heterogeneous impacts of large scale land acquisitions on
+child nutrition in the Global South</strong>, with <a
+href="https://scholar.google.com.tw/citations?user=S2iiM2kAAAAJ&amp;hl=ja">Julie
+Faure</a>, <a
+href="https://scholar.google.com/citations?user=tnmtsjAAAAAJ&amp;hl=it">Leonardo
+Bertassello</a>, <a
+href="https://scholar.google.it/citations?user=hM-mvuEAAAAJ&amp;hl=it">Davide
+Danilo Chiarelli</a>, <a
+href="https://scholar.google.com/citations?user=2q-I5M4AAAAJ&amp;hl=de">Sandra
+Eckert</a>, <a
+href="https://scholar.google.com/citations?user=Izxxqq0AAAAJ&amp;hl=en">Kyle
+Frankel Davis</a>, <a
+href="https://scholar.google.com/citations?user=eQBr5i0AAAAJ&amp;hl=en">Jampel
+Dell’Angelo</a>, <a
+href="https://scholar.google.com/citations?user=yQsaasMAAAAJ&amp;hl=en">Paolo
+D’Odorico</a>, <a
+href="https://scholar.google.com/citations?user=OiBY7bkAAAAJ&amp;hl=en">Maria
+Cristina Rulli</a>, <a
+href="https://scholar.google.com/citations?user=cQ4tR1UAAAAJ&amp;hl=en">Bhoktear
+Khan</a>, and <a
+href="https://scholar.google.com/citations?user=jnHeBrcAAAAJ&amp;hl=en">Marc
+F. Müller</a>. <br> <em>R &amp; R</em> at <strong>Proceedings of the
+National Academy of Sciences</strong>.</li>
+</ol>
+<details style="margin-top:-10px; margin-left:25px;">
+<summary>
+[+] <b>Abstract</b>
+</summary>
+<p>
+<em>Transnational land investments have surged in recent decades,
+reshaping rural landscapes in low- and middle-income countries. These
+large-scale land acquisitions (LSLAs) often displace smallholder farming
+and natural ecosystems, disrupting local food, water, and environmental
+systems. Yet, the ways these socio-environmental changes interact to
+affect household well-being remain poorly understood. We present a
+global analysis of over 400 georeferenced land deals, using a clustering
+algorithm to characterize cross-dimensional trade-offs and define LSLA
+archetypes with distinct policy relevance. Linking these to data from
+more than 84,000 children in Demographic and Health Surveys, we find
+that impacts on dietary diversity vary widely across archetypes, shaped
+by prior land use, water availability, and investment intent. The most
+severe adverse effects occur when LSLAs involve conversion to cash crop
+or plantation agriculture. In contrast, some deals-particularly those in
+already intensive agricultural regions-show potential to enhance dietary
+diversity, likely through spillover economic benefits. However, these
+gains vanish under conditions of water scarcity. Strikingly, we find a
+persistent association between water scarcity and negative nutritional
+outcomes, suggesting that water grabbing is a common and consequential
+feature of LSLAs. Our findings challenge the notion of LSLAs as uniform
+interventions and highlight the need for more differentiated,
+context-sensitive policy responses. Regulation should target the
+specific socio-environmental trade-offs associated with different types
+of land deals to better safeguard household well-being in affected
+regions.</em>
+</details>
+<p style="margin-top:20px;">
+<ol start="2" style="list-style-type: decimal">
+<li><strong>Climate Change and Gendered Structural Transformation in
+Africa</strong>, with <a
+href="https://scholar.google.com/citations?user=-ga5p8UAAAAJ&amp;hl=en">Kibrom
+Abay</a> and <a
+href="https://scholar.google.com/citations?user=OwxVewYAAAAJ&amp;hl=en">Martin
+Paul Jr.Tabe-Ojong</a>. <br> <em>R &amp; R</em> at <strong>Journal of
+Development Economics</strong>.</li>
+</ol>
+<details style="margin-top:-10px; margin-left:25px;">
+<summary>
+[+] <b>Abstract</b>
+</summary>
+<p>
+<em>We examine whether and how climate change affects structural
+transformation in Africa. We also examine potential gendered impacts as
+well as heterogeneities across different population groups. Combining
+census data covering 12 African countries and four decades (1974–2014)
+with gridded temperature and precipitation data, we document that a
+1<span class="math inline">\(^{\circ}\)</span>C increase in decadal
+temperature increases employment in agriculture by about 6 percentage
+points while triggering a comparable decline in the share of employment
+in nonagricultural sectors. We also document heterogeneities in the
+impact of climate change and show that climate change leads to a
+gendered delay in structural transformation, with women and
+less-educated individuals more affected by the delay induced by climate
+change. These findings suggest that climate change can aggravate
+existing inequities in societies. We provide empirical evidence on
+potential mechanisms, including impacts through agricultural
+productivity and labor force participation. Medium-term increases in
+temperature reduce agricultural productivity while increasing demand for
+farm labor and hence labor force participation.</em>
+</details>
+<p style="margin-top:20px;">
+<ol start="3" style="list-style-type: decimal">
+<li><strong>The conquest of the desert: Land investment in
+Egypt.</strong> <br> <em>Job Market Paper</em></li>
+</ol>
+<details style="margin-top:-10px; margin-left:25px;">
+<summary>
+[+] <b>Abstract</b>
+</summary>
+<em>In Egypt, demographic pressure is pushing people to populate and
+farm the desert. To foster economic development, the government is
+incentivizing these pioneers to settle there and contribute to the
+expansion of agriculture, manufacturing, and services. The desert
+concentrates the dreams and hopes of a country facing many challenges.
+My study uses census and satellite data to analyze the effects of this
+expansion policy. To assess its impact on structural transformation, I
+employ a difference-in-differences strategy, comparing districts
+bordering the desert to inland districts, before and after the
+implementation of a law that accelerated the expansion. Census data,
+available from 1960 to 2017, allow for long-term observation. Districts
+with access to the desert, which enabled agricultural land expansion,
+experienced a relative increase in the share of agricultural employment,
+accompanied by a relative decline in employment in manufacturing and
+services, compared to other districts. These districts have specialized
+in the sector where they have a comparative advantage, agriculture. The
+Egyptian expansion policy, instead of fostering the growth of the
+manufacturing and services sectors, slowed down the structural
+transformation of these districts relative to those inland.</em>
+</details>
+<hr style="border: 2px solid black;">
+</div>
+<div id="book-chapter" class="section level1">
+<h1>Book chapter</h1>
+<ol style="list-style-type: decimal">
+<li><strong>Past, Present and Future of Food Security in Egypt</strong>,
+with <a href="https://www.racharamadan.com/">Racha Ramadan</a>, in <a
+href="https://www.routledge.com/Pathways-to-African-Food-Security-Challenges-Threats-and-Opportunities-towards-2050/deHaas-Giller/p/book/9781032649658?srsltid=AfmBOoolqrs77yqzKgOg8RmFGkxwCn5Cr-c30_HqrrUXbVyoELnq1QJ5">Pathways
+to African Food Security: Challenges, Threats and Opportunities towards
+2050</a>, edited by <a
+href="https://scholar.google.com/citations?user=8jBsupsAAAAJ&amp;hl=en">Michiel
+de Haas</a>, and <a
+href="https://scholar.google.com/citations?user=yct61VwAAAAJ&amp;hl=fr">Ken
+E. Giller</a>, 2025. <a
+href="https://www.taylorfrancis.com/reader/download/f60b6d2e-a507-4c05-9a2f-cdde9916cbf5/chapter/pdf?context=ubx">PDF</a></li>
+</ol>
+</div>
+
+<div style="text-align:center; margin-top:25px;">
+  <hr style="width:50%; margin:auto;">
+  <p style="font-size:90%; opacity:.7;">
+    © <span id="year"></span> Antoine Castet · Built with R Markdown
+  </p>
+</div>
+
+<script>
+  document.getElementById("year").textContent = new Date().getFullYear();
+</script>
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
