@@ -17,7 +17,7 @@ output:
 <img src="Images/WorldDevelopment.png" style="width:100%;">
 :::
 ::: {.col-md-6 style="padding-left:2.5px; text-align:justify;"}
-1. **The impact of large-scale land acquisitions on food security in Africa**, [**World Development**](https://doi.org/10.1016/j.worlddev.2024.106597), 179, July 2024. [PDF](PDF/aa8269af-a102-4e7c-9a76-0427fdb18943.pdf)
+1. **The impact of large-scale land acquisitions on food security in Africa**. <br> [**World Development**](https://doi.org/10.1016/j.worlddev.2024.106597) 179, July 2024. [PDF](PDF/aa8269af-a102-4e7c-9a76-0427fdb18943.pdf)
   
 <div style="margin-left:25px; text-align:justify;">
 
@@ -33,7 +33,7 @@ output:
 <img src="Images/RevueEconomie.png" style="width:100%;">
 :::
 ::: {.col-md-6 style="margin-top:50px; padding-left:2.5px; text-align:justify;"}
-2. **Food security and Covid-19: An analysis of the MENA region**, with [Racha Ramadan](https://www.racharamadan.com/), [**Revue d’Économie du Développement**](https://www.cairn.info/revue-d-economie-du-developpement-2023-3-page-29.htm?contenu=article), 33(3–4), 2023.  [PDF](PDF/castet-2023-la-securite-alimentaire-a-lepreuve-du-covid-19-une-analyse-de-la-region-moan.pdf)
+2. **Food security and Covid-19: An analysis of the MENA region**, with [Racha Ramadan](https://www.racharamadan.com/). <br> [**Revue d’Économie du Développement**](https://www.cairn.info/revue-d-economie-du-developpement-2023-3-page-29.htm?contenu=article), 33(3–4), 2023.  [PDF](PDF/castet-2023-la-securite-alimentaire-a-lepreuve-du-covid-19-une-analyse-de-la-region-moan.pdf)
 
 <div style="margin-left:25px; text-align:justify;">
 
