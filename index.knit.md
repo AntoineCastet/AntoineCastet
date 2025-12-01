@@ -63,9 +63,9 @@ My research interests are primarily in development and agricultural economics.
 
 **Work in progress**
 
-1. **Heterogeneous impacts of large scale land acquisitions on child nutrition in the Global South**, with [Julie Faure](https://scholar.google.com.tw/citations?user=S2iiM2kAAAAJ&hl=ja) et al. <br> *R & R* at **Proceedings of the National Academy of Sciences**. 
+1. **Heterogeneous impacts of large scale land acquisitions on child nutrition in the Global South**, with [Julie Faure](https://scholar.google.com.tw/citations?user=S2iiM2kAAAAJ&hl=ja) et al. <br> *R & R* at [**Proceedings of the National Academy of Sciences**](https://www.pnas.org/).  
 
-2. **Climate Change and Gendered Structural Transformation in Africa**, with [Kibrom Abay](https://scholar.google.com/citations?user=-ga5p8UAAAAJ&hl=en) and [Martin Paul Jr.Tabe-Ojong](https://scholar.google.com/citations?user=OwxVewYAAAAJ&hl=en). <br> *R & R* at **Journal of Development Economics**. 
+2. **Climate Change and Gendered Structural Transformation in Africa**, with [Kibrom Abay](https://scholar.google.com/citations?user=-ga5p8UAAAAJ&hl=en) and [Martin Paul Jr.Tabe-Ojong](https://scholar.google.com/citations?user=OwxVewYAAAAJ&hl=en). <br> *R & R* at [**Journal of Development Economics**](https://www.sciencedirect.com/journal/journal-of-development-economics).
 
 3. **The conquest of the desert: Land investment in Egypt.** <br> *Job Market Paper*.
 

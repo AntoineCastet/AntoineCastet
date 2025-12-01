@@ -47,7 +47,7 @@ output:
 
 # Working papers
 
-1. **Heterogeneous impacts of large scale land acquisitions on child nutrition in the Global South**, with [Julie Faure](https://scholar.google.com.tw/citations?user=S2iiM2kAAAAJ&hl=ja), [Leonardo Bertassello](https://scholar.google.com/citations?user=tnmtsjAAAAAJ&hl=it), [Davide Danilo Chiarelli](https://scholar.google.it/citations?user=hM-mvuEAAAAJ&hl=it), [Sandra Eckert](https://scholar.google.com/citations?user=2q-I5M4AAAAJ&hl=de), [Kyle Frankel Davis](https://scholar.google.com/citations?user=Izxxqq0AAAAJ&hl=en), [Jampel Dell’Angelo](https://scholar.google.com/citations?user=eQBr5i0AAAAJ&hl=en), [Paolo D’Odorico](https://scholar.google.com/citations?user=yQsaasMAAAAJ&hl=en), [Maria Cristina Rulli](https://scholar.google.com/citations?user=OiBY7bkAAAAJ&hl=en), [Bhoktear Khan](https://scholar.google.com/citations?user=cQ4tR1UAAAAJ&hl=en), and [Marc F. Müller](https://scholar.google.com/citations?user=jnHeBrcAAAAJ&hl=en). <br> *R & R* at **Proceedings of the National Academy of Sciences**.  
+1. **Heterogeneous impacts of large scale land acquisitions on child nutrition in the Global South**, with [Julie Faure](https://scholar.google.com.tw/citations?user=S2iiM2kAAAAJ&hl=ja), [Leonardo Bertassello](https://scholar.google.com/citations?user=tnmtsjAAAAAJ&hl=it), [Davide Danilo Chiarelli](https://scholar.google.it/citations?user=hM-mvuEAAAAJ&hl=it), [Sandra Eckert](https://scholar.google.com/citations?user=2q-I5M4AAAAJ&hl=de), [Kyle Frankel Davis](https://scholar.google.com/citations?user=Izxxqq0AAAAJ&hl=en), [Jampel Dell’Angelo](https://scholar.google.com/citations?user=eQBr5i0AAAAJ&hl=en), [Paolo D’Odorico](https://scholar.google.com/citations?user=yQsaasMAAAAJ&hl=en), [Maria Cristina Rulli](https://scholar.google.com/citations?user=OiBY7bkAAAAJ&hl=en), [Bhoktear Khan](https://scholar.google.com/citations?user=cQ4tR1UAAAAJ&hl=en), and [Marc F. Müller](https://scholar.google.com/citations?user=jnHeBrcAAAAJ&hl=en). <br> *R & R* at [**Proceedings of the National Academy of Sciences**](https://www.pnas.org/).  
 
 <details style="margin-top:-10px; margin-left:25px;">
 <summary>[+] <b>Abstract</b></summary>
@@ -56,7 +56,7 @@ output:
 
 <p style="margin-top:20px;">
 
-2. **Climate Change and Gendered Structural Transformation in Africa**, with [Kibrom Abay](https://scholar.google.com/citations?user=-ga5p8UAAAAJ&hl=en) and [Martin Paul Jr.Tabe-Ojong](https://scholar.google.com/citations?user=OwxVewYAAAAJ&hl=en). <br> *R & R* at **Journal of Development Economics**.  
+2. **Climate Change and Gendered Structural Transformation in Africa**, with [Kibrom Abay](https://scholar.google.com/citations?user=-ga5p8UAAAAJ&hl=en) and [Martin Paul Jr.Tabe-Ojong](https://scholar.google.com/citations?user=OwxVewYAAAAJ&hl=en). <br> *R & R* at [**Journal of Development Economics**](https://www.sciencedirect.com/journal/journal-of-development-economics).
  
 
 <details style="margin-top:-10px; margin-left:25px;">
