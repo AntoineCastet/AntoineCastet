@@ -94,7 +94,8 @@ Job Market Paper.
 Revise and Resubmit at \uline{Proceedings of the National Academy of Sciences.}
 \item \textbf{Climate Change and Gendered Structural Transformation in Africa}, with \href{https://scholar.google.com/citations?user=-ga5p8UAAAAJ&hl=en}{Kibrom Abay}, and \href{https://scholar.google.com/citations?user=OwxVewYAAAAJ&hl=en}{Martin Paul Jr.Tabe-Ojong}. \\
 Revise and Resubmit at \uline{Journal of Development Economics}.
-\item \textbf{The Economic Analysis of Maize Intensification}, with \href{https://scholar.google.com/citations?user=70WNvUcAAAAJ&hl=fr}{Thierry Brunelle} and \href{https://scholar.google.com/citations?user=i4tcjnsAAAAJ&hl=fr}{Tristan Le Cotty}.
+\item \textbf{The Economic Analysis of Maize Intensification in Kenya}, with \href{https://scholar.google.com/citations?user=70WNvUcAAAAJ&hl=fr}{Thierry Brunelle} and \href{https://scholar.google.com/citations?user=i4tcjnsAAAAJ&hl=fr}{Tristan Le Cotty}.
+\item \textbf{Do transportation costs drive fertilizer prices? Evidence from Sub-Saharan Africa}, with \href{https://scholar.google.com/citations?user=70WNvUcAAAAJ&hl=fr}{Thierry Brunelle} and \href{https://scholar.google.com/citations?user=i4tcjnsAAAAJ&hl=fr}{Tristan Le Cotty}.
 \end{enumerate}
 \end{rSection}
 
@@ -105,17 +106,11 @@ Revise and Resubmit at \uline{Journal of Development Economics}.
 \end{rSection}
 
 \begin{rSection}{Seminars and Conferences}
-\textbf{2025} \\
-JDD - Job Market (Bordeaux School of Economics); 11th Workshop OEET (Collegio Carlo Alberto). \\
-\textbf{2024} \\
-Crises and resilience in developing countries workshop (Saint Joseph University of Beirut). \\
-\textbf{2023} \\
-ERF 29th annual conference (Economic Research Forum); International conference on development economics (Paris School of Economics); 71st Congress of the French Economic Association (AFSE) (Sciences Po Paris); 7th joint Nordic Development Research Conference (Uppsala University); UMR DEVSOC/CIRED PhD Poster Session (Sorbonne Institute of Development Studies); Ninth Research Workshop FESP-Paris 1 (Panthéon-Sorbonne); Internal seminary (Sorbonne Institute of Development Studies); Workshop on Spatial Data (Sorbonne Institute of Development Studies); IEA World Congress (Universidad EAFIT). \\
-\textbf{2022} \\
-Journées Doctorales du Développement (Panthéon-Sorbonne); 17th Doctorissimes (Paris School of Economics); MIASA policy conference (University of Ghana); International conference on development economics (Clermont Auvergne); Eighth Research Workshop FESP-Paris 1 (Cairo University); International Symposium of Sorbonne Sustainable Development (Panthéon-Sorbonne); Internal seminary of the UMR 7206 "Éco-Anthropologie (Muséum national d’Histoire naturelle); EADI Seminar (French Development Agency).
+\textbf{2025} JDD - Job Market (Bordeaux School of Economics); 11th Workshop OEET (Collegio Carlo Alberto). \\
+\textbf{2024} Crises and resilience in developing countries workshop (Saint Joseph University of Beirut). \\
+\textbf{2023} ERF 29th annual conference (Economic Research Forum); International conference on development economics (Paris School of Economics); 71st Congress of the French Economic Association (AFSE) (Sciences Po Paris); 7th joint Nordic Development Research Conference (Uppsala University); UMR DEVSOC/CIRED PhD Poster Session (Sorbonne Institute of Development Studies); Ninth Research Workshop FESP-Paris 1 (Panthéon-Sorbonne); Internal seminary (Sorbonne Institute of Development Studies); Workshop on Spatial Data (Sorbonne Institute of Development Studies); IEA World Congress (Universidad EAFIT). \\
+\textbf{2022} Journées Doctorales du Développement (Panthéon-Sorbonne); 17th Doctorissimes (Paris School of Economics); MIASA policy conference (University of Ghana); International conference on development economics (Clermont Auvergne); Eighth Research Workshop FESP-Paris 1 (Cairo University); International Symposium of Sorbonne Sustainable Development (Panthéon-Sorbonne); Internal seminary of the UMR 7206 "Éco-Anthropologie (Muséum national d’Histoire naturelle); EADI Seminar (French Development Agency).
 \end{rSection}
-
-\newpage
 
 \begin{rSection}{Professional experiences}
 \textbf{AgroParisTech - CIRED} \hfill{Sept 2025 -} \\

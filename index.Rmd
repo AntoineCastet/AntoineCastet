@@ -45,6 +45,8 @@ I am a postdoctoral researcher at [AgroParisTech](https://www.agroparistech.fr) 
 
 This [CLAND](https://cland.lsce.ipsl.fr)-funded position, supervised by [Thierry Brunelle](https://scholar.google.com/citations?user=70WNvUcAAAAJ&hl=fr), aims to analyze maize intensification in Kenya and sub-Saharan Africa.  
 
+I am a lecturer at [École Polytechnique](https://www.polytechnique.edu/) and at [Sorbonne Institute of Development Studies](https://iedes.pantheonsorbonne.fr/).
+
 I defended my PhD thesis, supervised by [Alain Desdoigts](https://scholar.google.com/citations?user=6c8QzJwAAAAJ&hl=fr), in July 2025 at [Paris 1 Panthéon-Sorbonne University](https://www.pantheonsorbonne.fr/).
 
 From 2023 to 2025, I was a teaching fellow (ATER) in the Department of Economics at [Sciences Po Paris](https://www.sciencespo.fr/fr/).
@@ -71,6 +73,7 @@ My research interests are primarily in development and agricultural economics.
 
 4. **The Economic Analysis of Maize Intensification**, with [Thierry Brunelle](https://scholar.google.com/citations?user=70WNvUcAAAAJ&hl=fr) and [Tristan Le Cotty](https://scholar.google.com/citations?user=i4tcjnsAAAAJ&hl=fr).
 
+5. **Do transportation costs drive fertilizer prices? Evidence from Sub-Saharan Africa**, with [Thierry Brunelle](https://scholar.google.com/citations?user=70WNvUcAAAAJ&hl=fr) and [Tristan Le Cotty](https://scholar.google.com/citations?user=i4tcjnsAAAAJ&hl=fr).
 
 **Book chapter**
 
@@ -90,6 +93,8 @@ More details are available on the [Research](research.html) page.
 
 **Experience**
 
-- Postdoctoral researcher at CIRED, 2025–2027  
+- Postdoctoral researcher at CIRED, 2025–  
+- Lecturer at École Polytechnique, 2026–  
+- Lecturer at Sorbonne Institute of Development Studies, 2026–  
 - Teaching fellow at Sciences Po Paris, 2023–2025  
 - Intern at International Food Policy Research Institute, 2023

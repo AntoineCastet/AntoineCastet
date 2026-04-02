@@ -45,7 +45,7 @@ output:
 
 <hr style="border: 2px solid black;">
 
-# Working papers
+# Work in progress
 
 1. **Heterogeneous impacts of large scale land acquisitions on child nutrition in the Global South**, with [Julie Faure](https://scholar.google.com.tw/citations?user=S2iiM2kAAAAJ&hl=ja), [Leonardo Bertassello](https://scholar.google.com/citations?user=tnmtsjAAAAAJ&hl=it), [Davide Danilo Chiarelli](https://scholar.google.it/citations?user=hM-mvuEAAAAJ&hl=it), [Sandra Eckert](https://scholar.google.com/citations?user=2q-I5M4AAAAJ&hl=de), [Kyle Frankel Davis](https://scholar.google.com/citations?user=Izxxqq0AAAAJ&hl=en), [Jampel Dell’Angelo](https://scholar.google.com/citations?user=eQBr5i0AAAAJ&hl=en), [Paolo D’Odorico](https://scholar.google.com/citations?user=yQsaasMAAAAJ&hl=en), [Maria Cristina Rulli](https://scholar.google.com/citations?user=OiBY7bkAAAAJ&hl=en), [Bhoktear Khan](https://scholar.google.com/citations?user=cQ4tR1UAAAAJ&hl=en), and [Marc F. Müller](https://scholar.google.com/citations?user=jnHeBrcAAAAJ&hl=en). <br> *R & R* at [**Proceedings of the National Academy of Sciences**](https://www.pnas.org/).  
 
@@ -73,6 +73,14 @@ output:
 
 *In Egypt, demographic pressure is pushing people to populate and farm the desert. To foster economic development, the government is incentivizing these pioneers to settle there and contribute to the expansion of agriculture, manufacturing, and services. The desert concentrates the dreams and hopes of a country facing many challenges. My study uses census and satellite data to analyze the effects of this expansion policy. To assess its impact on structural transformation, I employ a difference-in-differences strategy, comparing districts bordering the desert to inland districts, before and after the implementation of a law that accelerated the expansion. Census data, available from 1960 to 2017, allow for long-term observation. Districts with access to the desert, which enabled agricultural land expansion, experienced a relative increase in the share of agricultural employment, accompanied by a relative decline in employment in manufacturing and services, compared to other districts. These districts have specialized in the sector where they have a comparative advantage, agriculture. The Egyptian expansion policy, instead of fostering the growth of the manufacturing and services sectors, slowed down the structural transformation of these districts relative to those inland.*
 </details>
+
+<p style="margin-top:20px;">
+
+4. **The Economic Analysis of Maize Intensification in Kenya**, with [Thierry Brunelle](https://scholar.google.com/citations?user=70WNvUcAAAAJ&hl=fr) and [Tristan Le Cotty](https://scholar.google.com/citations?user=i4tcjnsAAAAJ&hl=fr).
+
+<p style="margin-top:20px;">
+
+5. **Do transportation costs drive fertilizer prices? Evidence from Sub-Saharan Africa**, with [Thierry Brunelle](https://scholar.google.com/citations?user=70WNvUcAAAAJ&hl=fr) and [Tristan Le Cotty](https://scholar.google.com/citations?user=i4tcjnsAAAAJ&hl=fr).
 
 <hr style="border: 2px solid black;">
 
