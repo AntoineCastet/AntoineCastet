@@ -119,53 +119,43 @@ Journées Doctorales du Développement (Panthéon-Sorbonne); 17th Doctorissimes 
 
 \begin{rSection}{Professional experiences}
 \textbf{AgroParisTech - CIRED} \hfill{Sept 2025 -} \\
-\textit{Postdoctoral researcher} \hfill {Paris, France}\\
-Position funded by the CLAND Convergence Institute. Supervised by \href{https://scholar.google.com/citations?user=70WNvUcAAAAJ&hl=fr}{Thierry Brunelle}.
+\textit{Postdoctoral researcher} \hfill {Paris, France}
 \vspace{0.125cm}
 
 \textbf{École Polytechnique} \hfill{Jan 2026 -} \\
-\textit{Lecturer} \hfill {Paris, France}\\
-Master-level course: ``Applied econometrics''
+\textit{Lecturer} \hfill {Paris, France}
 \vspace{0.125cm}
 
 \textbf{Sorbonne Institute of Development Studies} \hfill{Jan 2026 -} \\
-\textit{Lecturer} \hfill {Paris, France}\\
-Master-level course: ``Introduction to Stata'' and ``Tutorials in development economics.''
+\textit{Lecturer} \hfill {Paris, France}
 \vspace{0.125cm}
 
 \textbf{Sciences Po Paris} \hfill{Sept 2023 - Aug 2025} \\
-\textit{Teaching Fellow (ATER)} \hfill {Paris, France}\\
-Bachelor-level courses: ``Microeconomics'' and ``Introduction to Economics.''
+\textit{Teaching Fellow (ATER)} \hfill {Paris, France}
 \vspace{0.125cm}
 
 \textbf{International Food Policy Research Institute} \hfill{May-June 2023} \\
-\textit{Intern} \hfill {Cairo, Egypt}\\
-Launch of a new research project in collaboration with \href{https://scholar.google.com/citations?user=-ga5p8UAAAAJ&hl=en}{Kibrom Abay}, and \href{https://scholar.google.com/citations?user=OwxVewYAAAAJ&hl=en}{Martin Paul Jr.Tabe-Ojong}.
+\textit{Intern} \hfill {Cairo, Egypt}
 \vspace{0.125cm}
 
 \textbf{\'Ecole doctorale 465 - Economie Panth\'eon-Sorbonne} \hfill {July-October 2020} \\
-\textit{Research assistant for \href{https://etiennelerossignol.wordpress.com/}{Etienne Le Rossignol} - Ph.D Student} \hfill {Paris, France}\\
-Datasets cleaning and building.
+\textit{Research assistant for \href{https://etiennelerossignol.wordpress.com/}{Etienne Le Rossignol} - Ph.D Student} \hfill {Paris, France}
 \vspace{0.125cm}
 
 \textbf{Sciences Po Paris - LIEPP} \hfill {Dec 2019-June 2020} \\
-\textit{Research assistant for \href{https://scholar.google.fr/citations?user=FC7RktsAAAAJ&hl=fr}{Denis Fougère} - CNRS research director} \hfill {Paris, France} \\
-Analysis of an RCT on education.
+\textit{Research assistant for \href{https://scholar.google.fr/citations?user=FC7RktsAAAAJ&hl=fr}{Denis Fougère} - CNRS research director} \hfill {Paris, France} 
 \vspace{0.125cm}
 
 \textbf{Centre d'\'Econonomie de la Sorbonne - UMR8174} \hfill{Sept-Dec 2019} \\
-\textit{Research assistant for \href{https://scholar.google.com/citations?user=-IXkBZAAAAAJ\&hl=fr}{Rémi Bazillier} - Full professor} \hfill {Paris, France}\\
-Dataset cleaning, literature review, and exploratory work.
+\textit{Research assistant for \href{https://scholar.google.com/citations?user=-IXkBZAAAAAJ\&hl=fr}{Rémi Bazillier} - Full professor} \hfill {Paris, France}
 \vspace{0.125cm}
 
 \textbf{Panth\'{e}on-Sorbonne University}\hfill{Sept-Dec 2018} \\
-\textit{Economic's tutor} \hfill {Paris, France}\\
-Tutoring for 1st year student as an individual contractor.
+\textit{Economic's tutor} \hfill {Paris, France}
 \vspace{0.125cm}
 
 \textbf{International Food Policy Research Institute} \hfill{June-Aug 2018} \\
-\textit{Intern} \hfill {Cairo, Egypt}\\
-Help with the analysis of a cash transfer program in Egypt.
+\textit{Intern} \hfill {Cairo, Egypt}
 \end{rSection}
 \vspace{0.125cm}
 
