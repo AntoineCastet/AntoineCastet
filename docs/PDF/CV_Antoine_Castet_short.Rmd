@@ -33,12 +33,6 @@ header-includes:
 \end{tabular}
 \vspace{0.2cm}
 
-\begin{rSection}{Research Fields}
-\textbf{Primary:} Development economics \\
-\textbf{Secondary:} Agricultural economics, Economic geography
-\end{rSection}
-\vspace{0.2cm}
-
 \begin{small}
 \begin{rSection}{Current position}
 {\bfseries Postdoctoral researcher}, AgroParisTech (CIRED) \hfill {2025 - 2027} 
@@ -73,138 +67,86 @@ B.A in Economics \hfill {Poitiers, France}
 \end{rSection}
 \vspace{0.2cm}
 
-\begin{rSection}{References}
-\hspace{-0.5cm}
-\begin{tabular}{p{5.5cm}p{5.5cm}p{5.5cm}}
-\textbf{Prof. \href{https://scholar.google.com/citations?user=-IXkBZAAAAAJ\&hl=fr}{Rémi Bazillier}} &
-\textbf{Prof. \href{https://scholar.google.com/citations?user=6c8QzJwAAAAJ\&hl=fr}{Alain Desdoigts}} &
-\textbf{Prof. \href{https://scholar.google.com/citations?user=mImSYc4AAAAJ\&hl=fr\&oi=ao}{Karine Marazyan}} \\
-Panth\'eon-Sorbonne, CES & Panth\'eon-Sorbonne, DEVSOC & Rouen Normandy, LERN \\
-remi.bazillier@univ-paris1.fr & alain.desdoigts@univ-paris1.fr & karine.marazyan@univ-rouen.fr \\
-\end{tabular}
-\end{rSection}
-
 \begin{rSection}{Publications}
-\begin{itemize}
-\item \textbf{Heterogeneous impacts of large scale land acquisitions on child nutrition in the Global South}, with \href{https://scholar.google.com.tw/citations?user=S2iiM2kAAAAJ&hl=ja}{Julie Faure}, \textit{et al}. and \href{https://scholar.google.com/citations?user=jnHeBrcAAAAJ&hl=en}{Marc F. Müller}. \\
-Conditionnally accepted at \uline{Proceedings of the National Academy of Sciences}.
+\begin{enumerate}
 \item \textbf{The impact of large-scale land acquisitions on food security in Africa} \\
 \href{https://www.sciencedirect.com/science/article/pii/S0305750X24000676}{\uline{World Development}}, vol. 179, 2024. \href{https://antoinecastet.github.io/AntoineCastet/PDF/aa8269af-a102-4e7c-9a76-0427fdb18943.pdf}{\uline{PDF}}
 \item \textbf{Food security and Covid-19: An analysis of the MENA region}, with \href{https://scholar.google.com/citations?user=OH-yKZQAAAAJ&hl=en}{Racha Ramadan} \\
 \href{https://shs.cairn.info/revue-d-economie-du-developpement-2023-3-page-29?tab=resume}{\uline{Revue d’Économie du Développement}}, vol. 35, 2023. \href{https://antoinecastet.github.io/AntoineCastet/PDF/castet-2023-la-securite-alimentaire-a-lepreuve-du-covid-19-une-analyse-de-la-region-moan.pdf}{\uline{PDF}} \\
-\end{itemize}
+\end{enumerate}
 \end{rSection}
 
 \begin{rSection}{Work in progress}
-\begin{itemize}
+\begin{enumerate}
 \item \textbf{The Conquest of the Desert: Land Investment in Egypt}. \\
 Job Market Paper.
+\item \textbf{Heterogeneous impacts of large scale land acquisitions on child nutrition in the Global South}, with \href{https://scholar.google.com.tw/citations?user=S2iiM2kAAAAJ&hl=ja}{Julie Faure}, \textit{et al}. and \href{https://scholar.google.com/citations?user=jnHeBrcAAAAJ&hl=en}{Marc F. Müller}. \\
+Revise and Resubmit at \uline{Proceedings of the National Academy of Sciences}.
 
 \item \textbf{Climate Change and Gendered Structural Transformation in Africa}, with \href{https://scholar.google.com/citations?user=-ga5p8UAAAAJ&hl=en}{Kibrom Abay} , and \href{https://scholar.google.com/citations?user=OwxVewYAAAAJ&hl=en}{Martin Paul Jr.Tabe-Ojong}.\\
 Revise and Resubmit at \uline{Journal of Development Economics}.
 
 \item \textbf{The Economic Analysis of Maize Intensification}, with Thierry Brunelle and Tristan Le Cotty.
-\end{itemize}
+\end{enumerate}
 \end{rSection}
 
 \begin{rSection}{Book chapter}
-\begin{itemize}
+\begin{enumerate}
 \item \textbf{Past, Present and Future of Food Security in Egypt}, with \href{https://scholar.google.com/citations?user=OH-yKZQAAAAJ&hl=en}{Racha Ramadan}, in \href{https://www.routledge.com/Pathways-to-African-Food-Security-Challenges-Threats-and-Opportunities-towards-2050/deHaas-Giller/p/book/9781032649658?srsltid=AfmBOoolqrs77yqzKgOg8RmFGkxwCn5Cr-c30_HqrrUXbVyoELnq1QJ5}{\uline{Pathways to African Food Security: Challenges, Threats and Opportunities towards 2050}}, edited by \href{https://scholar.google.com/citations?user=8jBsupsAAAAJ&hl=en}{Michiel de Haas}, and \href{https://scholar.google.com/citations?user=yct61VwAAAAJ&hl=fr}{Ken E. Giller}, 2025, \href{https://www.taylorfrancis.com/reader/download/f60b6d2e-a507-4c05-9a2f-cdde9916cbf5/chapter/pdf?context=ubx}{\uline{PDF}}
-\end{itemize}
+\end{enumerate}
 \end{rSection}
 
 \begin{rSection}{Seminars and Conferences}
 \textbf{2025} \\ 
-JDD - Job Market (Bordeaux School of Economics); 11th Workshop OEET (Collegio Carlo Alberto)
-
-\textbf{2024} \\ 
-Crises and resilience in developing countries workshop (Saint Joseph University of Beirut)
-
-\textbf{2023} \\
-ERF 29th annual conference (Economic Research Forum); International conference on development economics (Paris School of Economics); 71st Congress of the French Economic Association (AFSE) (Sciences Po Paris); 7th joint Nordic Development Research Conference (Uppsala University); UMR DEVSOC/CIRED PhD Poster Session (Sorbonne Institute of Development Studies); Ninth Research Workshop FESP-Paris 1 (Panthéon-Sorbonne); Internal seminary (Sorbonne Institute of Development Studies); Workshop on Spatial Data (Sorbonne Institute of Development Studies); IEA World Congress (Universidad EAFIT)
-
-\textbf{2022} \\ 
-Journées Doctorales du Développement (Panthéon-Sorbonne); 17th Doctorissimes (Paris School of Economics); MIASA policy conference (University of Ghana); International conference on development economics (Clermont Auvergne); Eighth Research Workshop FESP-Paris 1 (Cairo University); International Symposium of Sorbonne Sustainable Development (Panthéon-Sorbonne); Internal seminary of the UMR 7206 "Éco-Anthropologie (Muséum national d’Histoire naturelle); EADI Seminar (French Development Agency)
+JDD - Job Market (Bordeaux School of Economics); 11th Workshop OEET (Collegio Carlo Alberto) \textbf{2024}
+Crises and resilience in developing countries workshop (Saint Joseph University of Beirut) \textbf{2023} ERF 29th annual conference (Economic Research Forum); International conference on development economics (Paris School of Economics); 71st Congress of the French Economic Association (AFSE) (Sciences Po Paris); 7th joint Nordic Development Research Conference (Uppsala University); UMR DEVSOC/CIRED PhD Poster Session (Sorbonne Institute of Development Studies); Ninth Research Workshop FESP-Paris 1 (Panthéon-Sorbonne); Internal seminary (Sorbonne Institute of Development Studies); Workshop on Spatial Data (Sorbonne Institute of Development Studies); IEA World Congress (Universidad EAFIT) \textbf{2022} Journées Doctorales du Développement (Panthéon-Sorbonne); 17th Doctorissimes (Paris School of Economics); MIASA policy conference (University of Ghana); International conference on development economics (Clermont Auvergne); Eighth Research Workshop FESP-Paris 1 (Cairo University); International Symposium of Sorbonne Sustainable Development (Panthéon-Sorbonne); Internal seminary of the UMR 7206 "Éco-Anthropologie (Muséum national d’Histoire naturelle); EADI Seminar (French Development Agency)
 \end{rSection}
-
-\newpage
 
 \begin{rSection}{Professional experiences}
 
 \textbf{AgroParisTech - CIRED} \hfill{Sept 2025 - Sept 2027} \\
 \textit{Postdoctoral researcher} \hfill {Paris, France}\\
-Position funded by the CLAND Convergence Institute. Supervised by Thierry Brunelle.
 \vspace{0.125cm}
 
 \textbf{Sciences Po Paris} \hfill{Sept 2023 - Aug 2025} \\
 \textit{Teaching Fellow (ATER)} \hfill {Paris, France}\\
-Bachelor-level courses: “Microeconomics” and “Introduction to Economics.”
 \vspace{0.125cm}
 
 \textbf{International Food Policy Research Institute} \hfill{May-June 2023} \\
 \textit{Intern} \hfill {Cairo, Egypt}\\
-Launch of a new project in collaboration with \href{https://scholar.google.com/citations?user=-ga5p8UAAAAJ&hl=en}{Kibrom Abay}, and \href{https://scholar.google.com/citations?user=OwxVewYAAAAJ&hl=en}{Martin Paul Jr.Tabe-Ojong}.
 \vspace{0.125cm}
 
 \textbf{\'Ecole doctorale 465 - Economie Panth\'eon-Sorbonne} \hfill {July-October 2020} \\
 \textit{Research assistant for \href{https://etiennelerossignol.wordpress.com/}{Etienne Le Rossignol} - Ph.D Student} \hfill {Paris, France}\\
-Datasets cleaning and building
 \vspace{0.125cm}
 
 \textbf{Sciences Po Paris - LIEPP} \hfill {Dec 2019-June 2020} \\
 \textit{Research assistant for \href{https://scholar.google.fr/citations?user=FC7RktsAAAAJ&hl=fr}{Denis Fougère} - CNRS research director} \hfill {Paris, France} \\
-Analysis of an RCT on education
 \vspace{0.125cm}
 
 \textbf{Centre d'\'Econonomie de la Sorbonne - UMR8174} \hfill{Sept-Dec 2019} \\
 \textit{Research assistant for \href{https://scholar.google.com/citations?user=-IXkBZAAAAAJ\&hl=fr}{Rémi Bazillier} - Full professor} \hfill {Paris, France}\\
-Dataset cleaning, literature review, and exploratory work
 \vspace{0.125cm}
 
 \textbf{Panth\'{e}on-Sorbonne University}\hfill{Sept-Dec 2018 } \\
 \textit{Economic's tutor} \hfill {Paris, France}\\
-Tutoring for 1st year student as an individual contractor
 \vspace{0.125cm}
 
 \textbf{International Food Policy Research Institute} \hfill{June-Aug 2018} \\
 \textit{Intern} \hfill {Cairo, Egypt}\\
-Help with the analysis of a cash transfer program in Egypt
 \end{rSection}
 \vspace{0.2cm}
 
 \begin{rSection}{Teaching}
-\textbf{Sorbonne Institute of Development Studies} \hfill {2024-2025} \\
-Introduction to Stata (graduate, M1) \hfill {Paris}  \\
-
-\textbf{Ecole Polytechnique} \hfill {2024-2025} \\
-Applied Econometrics (graduate, M2) \hfill {Paris}  \\
-
 \textbf{Sciences Po Paris} \hfill {2024-2025} \\
-Microeconomics (undergraduate, L2), teaching assistant of Pr. \href{https://scholar.google.com/citations?user=tt48sngAAAAJ&hl=fr}{Jean-Marc Robin} \hfill {Reims}  \\
-\textit{Average overall satisfaction: 91.8\%} \\
+Microeconomics (undergraduate), teaching assistant of Pr. \href{https://scholar.google.com/citations?user=tt48sngAAAAJ&hl=fr}{Jean-Marc Robin} \hfill {Reims}  \\
 \vspace{-0.2cm}
 
-Introduction à l'économie (undergraduate, L1) \hfill {Paris} \\
-\textit{Average overall satisfaction: 100\%} \\
+Introduction à l'économie (undergraduate) \hfill {Paris} \\
 \vspace{-0.2cm}
 
 \textbf{Sciences Po Paris} \hfill {2023-2024} \\
-Microeconomics (undergraduate, L2), teaching assistant of Pr. \href{https://scholar.google.com/citations?user=tt48sngAAAAJ&hl=fr}{Jean-Marc Robin} \hfill {Reims}  \\
-\textit{Average overall satisfaction: 72,3\%} \\
-
-\vspace{-0.2cm}
-
-\textbf{Paris-Saclay University} \hfill {2024} \\
-Intervention on development economics (graduate, M2) \hfill {Sceaux}\\
-\vspace{-0.2cm}
-
-\textbf{University of Rouen Normandy} \hfill {2023} \\
-Intervention on development economics (graduate, M2) \hfill {Rouen}\\
-\vspace{-0.2cm}
-
-\textbf{Sorbonne Institute of Development Studies} \hfill {2023} \\
-Intervention on development economics (graduate, M2) \hfill {Paris}\\
-\vspace{-0.2cm}
+Microeconomics (undergraduate), teaching assistant of Pr. \href{https://scholar.google.com/citations?user=tt48sngAAAAJ&hl=fr}{Jean-Marc Robin} \hfill {Reims}  \\
 
 \end{rSection}
 
