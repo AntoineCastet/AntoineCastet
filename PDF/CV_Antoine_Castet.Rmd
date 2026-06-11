@@ -155,6 +155,7 @@ Revise and Resubmit at \uline{Journal of Development Economics}.
 \vspace{0.125cm}
 
 \begin{rSection}{Teaching}
+<<<<<<< HEAD
 \vspace{0.125cm}
 \textbf{École Polytechnique} \hfill {2025-2026} \\
 Applied econometrics (graduate). \hfill {Paris} 
@@ -189,11 +190,58 @@ Intervention on development economics (graduate). \hfill {Rouen}
 
 \textbf{Sorbonne Institute of Development Studies} \hfill {2023} \\
 Intervention on development economics (graduate). \hfill {Paris}
+=======
+\textbf{Sorbonne Institute of Development Studies} \hfill {2024-2025} \\
+Introduction to Stata (graduate, M1) \hfill {Paris}  \\
+
+\textbf{Ecole Polytechnique} \hfill {2024-2025} \\
+Applied Econometrics (graduate, M2) \hfill {Paris}  \\
+
+\textbf{Sciences Po Paris} \hfill {2024-2025} \\
+Microeconomics (undergraduate, L2), teaching assistant of Pr. \href{https://scholar.google.com/citations?user=tt48sngAAAAJ&hl=fr}{Jean-Marc Robin} \hfill {Reims}  \\
+\textit{Average overall satisfaction: 91.8\%} \\
+\vspace{-0.2cm}
+
+Introduction à l'économie (undergraduate, L1) \hfill {Paris} \\
+\textit{Average overall satisfaction: 100\%} \\
+\vspace{-0.2cm}
+
+\textbf{Sciences Po Paris} \hfill {2023-2024} \\
+Microeconomics (undergraduate, L2), teaching assistant of Pr. \href{https://scholar.google.com/citations?user=tt48sngAAAAJ&hl=fr}{Jean-Marc Robin} \hfill {Reims}  \\
+\textit{Average overall satisfaction: 72,3\%} \\
+
+\vspace{-0.2cm}
+
+\textbf{Paris-Saclay University} \hfill {2024} \\
+Intervention on development economics (graduate, M2) \hfill {Sceaux}\\
+\vspace{-0.2cm}
+
+\textbf{University of Rouen Normandy} \hfill {2023} \\
+Intervention on development economics (graduate, M2) \hfill {Rouen}\\
+\vspace{-0.2cm}
+
+\textbf{Sorbonne Institute of Development Studies} \hfill {2023} \\
+Intervention on development economics (graduate, M2) \hfill {Paris}\\
+\vspace{-0.2cm}
+
+>>>>>>> 54a1d10 (restore index)
 \end{rSection}
 
 \begin{rSection}{Scientific activities}
 \textbf{ICDE} \hfill {2025-2026}\\
 Member of the Organizing Committee of the International Conference on Development Economics 2026.
+<<<<<<< HEAD
+=======
+
+\textbf{JDD} \hfill {2025-2026}\\
+Member of the Scientific Committee of the Development Doctoral Days 2026.
+
+\textbf{AFEDEV} \hfill {2023-}\\
+Member of the communication team of the French Association for Development Economics (AFEDEV)
+
+\textbf{AuToMat seminar} \hfill {2021-2024}\\
+Co-organizer with \href{https://scholar.google.com/citations?user=BnfXmC4AAAAJ&hl=fr}{Jean-Baptiste Guiffard} and \href{https://scholar.google.com/citations?user=mImSYc4AAAAJ\&hl=fr\&oi=ao}{Karine Marazyan}
+>>>>>>> 54a1d10 (restore index)
 \vspace{0.125cm}
 
 \textbf{Doctoral Development Days} \hfill {2025-2026}\\
