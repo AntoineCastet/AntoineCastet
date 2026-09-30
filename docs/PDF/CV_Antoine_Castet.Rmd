@@ -39,7 +39,7 @@ header-includes:
 \begin{small}
 \begin{rSection}{Current position}
 {\bfseries Associate Professor}, Université de Rouen-Normandie, LERN (2026-) \\
-{\bfseries Associate Researcher}, UMR Développement \& Sociétés (Université Paris 1 Panthéon-Sorbonne)
+{\bfseries Associate Researcher}, UMR Développement \& Sociétés (Panthéon-Sorbonne University)
 \end{rSection}
 
 \begin{rSection}{Doctoral Studies}

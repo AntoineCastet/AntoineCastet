@@ -1,0 +1,25 @@
+---
+title: "Antoine Castet - Teaching"
+output:
+  html_document:
+    df_print: default
+    toc: false
+    toc_float: false
+    md_extensions: +fenced_divs
+    includes:
+      in_header: hide-title.Rhtml
+---
+
+# Teaching
+
+<p style="margin-top:20px;">
+
+### Université Rouen-Normandie, 2025-2026
+
+<p style="margin-top:20px;">
+
+1. **International Development** <br> Undergraduate (L3).
+
+<p style="margin-top:20px;">
+
+2. **Traitement et Analyse des Données** <br> Graduate (M2).
