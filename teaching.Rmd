@@ -14,12 +14,8 @@ output:
 
 <p style="margin-top:20px;">
 
-### Université Rouen-Normandie, 2025-2026
+**International Development** <br> Undergraduate (L3).
 
 <p style="margin-top:20px;">
 
-1. **International Development** <br> Undergraduate (L3).
-
-<p style="margin-top:20px;">
-
-2. **Traitement et Analyse des Données** <br> Graduate (M2).
+**Traitement et Analyse des Données** <br> Graduate (M2).
