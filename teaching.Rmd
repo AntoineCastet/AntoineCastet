@@ -19,3 +19,6 @@ output:
 <p style="margin-top:20px;">
 
 **Traitement et Analyse des Données** <br> Graduate (M2).
+
+- Données : <a href="Data/tv_shows.csv" download>tv_shows.csv</a>
+- Données complémentaires : <a href="Data/tv_shows_complement.csv" download>tv_shows_complement.csv</a>

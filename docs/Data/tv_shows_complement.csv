@@ -1,0 +1,1001 @@
+series_id,titre_tvmaze,nombre_saisons,nombre_episodes,note_tvmaze
+SER00001,Breaking Bad,5,62,9.2
+SER00002,Stranger Things,5,42,8.4
+SER00003,La Casa de Papel,4,41,8
+SER00004,Sherlock,4,12,8.9
+SER00005,Better Call Saul,6,63,8.6
+SER00006,The Office,9,202,8.5
+SER00007,Black Mirror,7,32,8.4
+SER00008,Supernatural,15,327,8.3
+SER00009,Peaky Blinders,6,36,8.5
+SER00010,Avatar: The Last Airbender,3,61,8.8
+SER00011,The Walking Dead,11,177,7.9
+SER00012,Dark,3,26,8.2
+SER00013,Ozark,4,44,8.1
+SER00014,Attack on Titan,4,89,8.9
+SER00015,Narcos,3,30,8.4
+SER00016,Fullmetal Alchemist: Brotherhood,1,64,7.7
+SER00017,Community,6,110,8.3
+SER00018,MINDHUNTER,2,19,8.4
+SER00019,Parks and Recreation,7,125,8.1
+SER00020,Dexter,8,96,8.4
+SER00021,Marvel's Daredevil,3,39,8.4
+SER00022,The Witcher,4,32,7.8
+SER00023,Twin Peaks,3,48,8
+SER00024,One-Punch Man,3,36,8
+SER00025,Outlander,8,101,7.9
+SER00026,House of Cards,6,73,8.2
+SER00027,Shameless,11,134,8.5
+SER00028,The Good Place,4,52,7.6
+SER00030,The Blacklist,10,218,8
+SER00031,The Flash,9,184,7.5
+SER00032,The Last Kingdom,5,46,8.2
+SER00033,Mad Men,7,92,8.1
+SER00034,Lucifer,6,93,8.3
+SER00035,Orange Is the New Black,7,91,7.9
+SER00036,Grey's Anatomy,23,467,7.6
+SER00037,The End of the F***ing World,2,16,7.7
+SER00038,Arrested Development,5,84,8.2
+SER00039,The Vampire Diaries,8,171,7.9
+SER00040,The Crown,6,60,8.4
+SER00041,The 100,7,100,7.7
+SER00042,When They See Us,1,4,7.8
+SER00043,How to Get Away with Murder,6,90,7.6
+SER00044,After Life,3,18,7.9
+SER00045,Élite,8,64,7.3
+SER00046,BoJack Horseman,6,76,7.9
+SER00047,Never Have I Ever,4,40,7.7
+SER00048,Penny Dreadful,3,27,8.2
+SER00049,Marvel's Agents of S.H.I.E.L.D.,7,136,8
+SER00050,Dead to Me,3,30,7.7
+SER00051,Unorthodox,1,4,7.9
+SER00052,Sense8,2,22,8.1
+SER00053,Sacred Games,2,16,7.5
+SER00054,American Crime Story,3,29,7.1
+SER00055,Family Guy,25,458,7.5
+SER00056,Pretty Little Liars,7,160,7.4
+SER00057,Unbelievable,1,8,8
+SER00058,Arrow,8,170,7.4
+SER00059,The IT Crowd,4,24,8.7
+SER00060,The Twilight Zone,5,156,8.9
+SER00061,You,5,50,7.5
+SER00062,Sex Education,4,32,7.8
+SER00063,"Tiger King: Murder, Mayhem and Madness",2,13,6.3
+SER00064,Star Trek: The Next Generation,7,178,8.7
+SER00065,Broadchurch,3,24,8.4
+SER00066,Kingdom,2,12,7.9
+SER00067,Altered Carbon,2,18,8
+SER00068,The Sinner,4,32,7.3
+SER00069,"Love, Death & Robots",4,45,8.3
+SER00070,Marvel's Jessica Jones,3,39,7.9
+SER00071,New Girl,7,146,7.3
+SER00072,The Good Wife,7,156,8.1
+SER00073,The Umbrella Academy,4,36,7.9
+SER00074,Marvel's The Punisher,2,26,8.4
+SER00075,Ash vs Evil Dead,3,30,8
+SER00076,Master of None,3,25,7.7
+SER00077,Bodyguard,1,6,8.2
+SER00078,Schitt's Creek,6,79,7.6
+SER00079,Narcos: Mexico,3,30,7.8
+SER00080,The West Wing,7,154,8.6
+SER00081,Bates Motel,5,50,8
+SER00082,Atypical,4,38,7.9
+SER00083,Once Upon a Time,7,156,7.5
+SER00085,Making a Murderer,2,20,8
+SER00086,Death Note,1,37,8.8
+SER00087,Castlevania,4,32,7.9
+SER00088,Riverdale,7,137,6.5
+SER00089,Burn Notice,7,111,8
+SER00090,Fauda,5,59,7.6
+SER00091,Russian Doll,2,15,7.4
+SER00092,Our Planet,2,12,8.1
+SER00093,Big Mouth,8,80,7.7
+SER00094,American Horror Story,13,145,7.4
+SER00095,Gotham,5,100,7.7
+SER00096,I Am Not Okay With This,1,7,7.5
+SER00097,Criminal Minds,19,364,8.1
+SER00098,The Vietnam War,1,10,7.6
+SER00099,Waco,1,6,7.4
+SER00100,Star Trek,3,79,8.4
+SER00101,The OA,2,16,7.6
+SER00102,Outer Banks,5,50,6.9
+SER00103,The Midnight Gospel,1,8,7.8
+SER00104,Good Girls,4,50,7.2
+SER00105,Chilling Adventures of Sabrina,4,36,7.4
+SER00106,Doctor Foster,2,10,7.7
+SER00107,Gilmore Girls,7,153,8
+SER00108,iZombie,5,71,7.8
+SER00109,Anne with an E,3,27,7.9
+SER00110,A Series of Unfortunate Events,3,25,7.3
+SER00111,Neon Genesis Evangelion,1,26,7.9
+SER00112,Into the Badlands,3,32,8.1
+SER00113,Monty Python's Flying Circus,4,45,8
+SER00114,Jane the Virgin,5,100,7.4
+SER00115,Halt and Catch Fire,4,40,8.1
+SER00116,Grace and Frankie,7,94,7.7
+SER00117,NCIS,24,509,7.9
+SER00118,Weeds,8,102,7.9
+SER00119,GLOW,3,30,7.3
+SER00120,Person of Interest,5,103,8.8
+SER00121,13 Reasons Why,4,49,7.1
+SER00122,Godless,1,7,8
+SER00124,Mushi-Shi,2,46,7.3
+SER00125,Gossip Girl,6,121,7.3
+SER00126,Unbreakable Kimmy Schmidt,4,51,7.5
+SER00127,Lost in Space,3,28,7.7
+SER00128,Scandal,7,124,7.9
+SER00129,Hunter x Hunter,1,148,8.6
+SER00130,One Day at a Time,4,45,6.2
+SER00131,DC's Legends of Tomorrow,7,110,7.1
+SER00132,Manhunt,2,18,7.5
+SER00133,Naruto,6,220,7.8
+SER00134,Charmed,8,178,8.2
+SER00135,The Dragon Prince,7,63,7.8
+SER00136,Locke & Key,3,28,7.3
+SER00137,Alias Grace,1,6,7.1
+SER00138,American Vandal,2,16,6.7
+SER00139,Santa Clarita Diet,3,30,7.8
+SER00140,Maniac,1,10,6.7
+SER00141,Star Trek: Deep Space Nine,7,176,8.4
+SER00142,The Dark Crystal: Age of Resistance,1,10,7.4
+SER00143,Colony,3,36,7.9
+SER00144,Wild Wild Country,1,6,7.4
+SER00145,Rectify,4,30,8
+SER00146,Pose,3,25,7.8
+SER00147,Marvel's Luke Cage,2,26,7.2
+SER00148,Hollywood,1,7,7.1
+SER00149,Derry Girls,3,19,7.8
+SER00150,Dark Matter,3,39,8.2
+SER00151,On My Block,4,38,6.3
+SER00152,Law & Order: Special Victims Unit,28,599,7.9
+SER00153,Longmire,6,63,8.3
+SER00154,The Tudors,4,38,8
+SER00155,Happy!,2,18,7.7
+SER00156,The Stranger,1,13,7
+SER00157,Call the Midwife,15,117,8.1
+SER00158,Into the Night,2,12,7.4
+SER00159,Mystery Science Theater 3000,13,209,5.9
+SER00161,The Inbetweeners,3,18,7.7
+SER00162,Reign,4,78,7.6
+SER00163,Extras,2,12,7.9
+SER00164,The Kominsky Method,3,22,7.4
+SER00165,The 4400,4,44,7.6
+SER00166,The Borgias,3,29,7.9
+SER00167,Marco Polo,2,20,8
+SER00168,Queer Eye,10,80,7
+SER00169,The Spy,1,6,7.5
+SER00170,Love,3,34,7.1
+SER00171,Designated Survivor,3,53,7.4
+SER00172,Ripper Street,5,36,8
+SER00173,Feel Good,2,12,5.9
+SER00174,Hell on Wheels,5,57,8.2
+SER00175,The Fosters,5,104,7.5
+SER00176,Hawaii Five-0,10,240,7.7
+SER00177,Marvel's The Defenders,1,8,7.4
+SER00178,'Allo 'Allo!,9,83,8
+SER00179,Supergirl,6,126,7
+SER00180,Star Trek: Voyager,7,172,8.3
+SER00181,Limitless,1,22,8
+SER00182,Messiah,1,10,6.9
+SER00183,The Shannara Chronicles,2,20,7.4
+SER00184,Crash Landing on You,1,16,8
+SER00185,Bleach,9,366,7.9
+SER00186,Top Boy,2,8,7.7
+SER00187,Jonathan Strange & Mr. Norrell,1,7,8
+SER00188,Haven,5,78,8
+SER00189,Queen of the South,5,62,8
+SER00190,Delhi Crime,3,18,7.2
+SER00191,Hart of Dixie,4,76,7.9
+SER00192,Bloodline,3,33,7.8
+SER00193,Middleditch & Schwartz,1,3,
+SER00194,Haikyuu!!,4,85,7.5
+SER00195,Dirty Money,2,12,7.8
+SER00196,Don't F**k with Cats: Hunting an Internet Killer,1,3,7.7
+SER00197,Babylon Berlin,5,48,7.8
+SER00198,That '70s Show,8,200,8
+SER00199,The Magicians,5,65,7.8
+SER00200,Chef's Table,7,34,7.6
+SER00201,TURN: Washington's Spies,4,40,7.8
+SER00202,Crazy Ex-Girlfriend,4,62,6.9
+SER00203,Soul Eater,1,51,7.4
+SER00204,Lost Girl,5,77,7.9
+SER00205,Wynonna Earp,4,49,7.4
+SER00206,Merlin,5,65,7.9
+SER00207,Galavant,2,18,7.8
+SER00208,Travelers,3,34,8.1
+SER00209,Hilda,3,34,8
+SER00210,The Originals,5,92,8.3
+SER00211,Episodes,5,41,7.9
+SER00212,Absolutely Fabulous,5,33,7.8
+SER00213,Living with Yourself,1,8,6.8
+SER00214,Malcolm in the Middle,7,151,7.8
+SER00215,F is for Family,5,44,7.7
+SER00216,The Keepers,1,7,7.8
+SER00217,Cheer,2,15,5.4
+SER00218,Disenchantment,3,50,7.1
+SER00219,Dead Set,1,5,7.4
+SER00220,Ezel,2,71,
+SER00221,Nurse Jackie,7,80,7.8
+SER00223,Imposters,2,20,8
+SER00224,Queer As Folk,2,10,7.3
+SER00225,Heartland,20,281,7.7
+SER00227,Madam Secretary,6,120,7.7
+SER00228,Chewing Gum,2,12,7.7
+SER00229,Glee,6,121,6.6
+SER00230,Fairy Tail,8,328,7.7
+SER00231,The Order,2,20,7
+SER00232,Legacies,4,68,7.3
+SER00233,North & South,1,4,8
+SER00234,Helix,2,26,6.5
+SER00236,Evil Genius,1,8,
+SER00237,Marvel's Iron Fist,2,23,7
+SER00238,Lilyhammer,3,24,7.9
+SER00239,Voltron: Legendary Defender,8,76,7.7
+SER00240,Blue Mountain State,3,39,8
+SER00241,Pokémon,25,1220,7.4
+SER00242,Cheers,11,273,8
+SER00243,Marianne,1,8,6.8
+SER00244,Star Trek: Enterprise,4,98,8.2
+SER00245,Portlandia,8,77,7
+SER00247,Five Came Back,1,3,
+SER00248,American Crime,3,29,7.8
+SER00249,Skins,7,61,7.9
+SER00250,Glitch,3,18,7.4
+SER00251,GHOUL,1,3,5.8
+SER00252,JoJo's Bizarre Adventure,5,190,7.8
+SER00253,The Society,1,10,6.4
+SER00255,Dracula,1,3,7.5
+SER00256,Quantico,3,57,6.3
+SER00257,The Innocence Files,1,9,
+SER00259,She-Ra and the Princesses of Power,5,52,7.7
+SER00260,Versailles,3,30,7.9
+SER00261,Rise of Empires: Ottoman,2,12,6.8
+SER00262,O Mecanismo,2,16,7.2
+SER00263,Everything Sucks!,1,10,7.4
+SER00264,Raising Dion,2,17,6.8
+SER00265,All American,8,132,6.2
+SER00266,Fullmetal Alchemist,1,51,7.5
+SER00267,The Rain,3,20,6.5
+SER00269,Nailed It!,7,42,7.2
+SER00270,Last Tango in Halifax,5,24,7.7
+SER00271,Star-Crossed,1,13,6.9
+SER00272,The Politician,2,15,6.1
+SER00273,Documentary Now!,4,27,7.8
+SER00274,Baby,3,18,7.5
+SER00275,Secret City,2,12,7.3
+SER00276,Abstract: The Art of Design,2,14,7.9
+SER00277,Shooter,3,31,7.7
+SER00278,Marcella,3,24,7.5
+SER00279,The Chef Show,2,25,8
+SER00280,Rurouni Kenshin: Meiji Kenkaku Romantan,3,95,7.3
+SER00281,The Seven Deadly Sins,4,96,7.8
+SER00282,InuYasha,7,193,6.9
+SER00283,Yeh Meri Family,4,22,
+SER00284,The Circle,7,90,7.1
+SER00285,The Devil Next Door,1,5,6.8
+SER00286,Flowers,2,12,7.3
+SER00287,Descendants of the Sun,1,16,8
+SER00288,The Hollow,2,20,6.9
+SER00289,Frontier,3,18,7.2
+SER00291,Ancient Aliens,22,292,6.5
+SER00292,Sword Art Online,4,96,7.6
+SER00293,Frequency,1,13,7.2
+SER00294,Wentworth,9,100,8
+SER00295,Beauty & the Beast,4,70,7.3
+SER00296,Cold Justice,8,129,6.9
+SER00297,Hyperdrive,1,10,6.2
+SER00298,Time: The Kalief Browder Story,1,6,
+SER00299,The Toys That Made Us,3,12,7.9
+SER00300,Seven Seconds,1,10,7.1
+SER00301,Spinning Out,1,10,6.7
+SER00302,Killer Inside: The Mind of Aaron Hernandez,1,3,
+SER00303,El Internado,7,71,8
+SER00304,Frozen Planet,1,7,8
+SER00305,London Spy,1,5,7.8
+SER00307,Containment,1,13,7.4
+SER00308,Black Lightning,4,58,5.8
+SER00309,Merlí,3,40,6.9
+SER00310,Derek,2,12,8
+SER00311,Last Chance U,5,38,7.5
+SER00312,MARS,2,12,7.5
+SER00313,Love Is Blind,10,136,5.3
+SER00315,3%,4,33,6.9
+SER00316,Zoo,3,39,7.3
+SER00317,Daybreak,1,10,6.6
+SER00318,Hemlock Grove,3,33,6.9
+SER00319,Trailer Park Boys,12,105,7.6
+SER00320,Private Practice,6,111,7.7
+SER00321,Ragnarok,3,18,7.4
+SER00322,Akame ga Kill!,1,24,7.5
+SER00323,Insatiable,2,22,5.9
+SER00324,No Tomorrow,1,13,7.2
+SER00325,The Ranch,4,80,6.3
+SER00326,Ramayan,1,78,
+SER00327,Surviving R. Kelly,3,15,7
+SER00328,Easy,3,25,5.7
+SER00329,Self Made: Inspired by the Life of Madam C.J. Walker,1,4,7.7
+SER00330,Knightfall,2,18,7
+SER00331,Kim's Convenience,5,65,8
+SER00332,Kengan Ashura,2,52,6.4
+SER00333,Spotless,1,10,7.7
+SER00334,Carmen Sandiego,4,32,7.4
+SER00335,Inside Bill's Brain: Decoding Bill Gates,1,3,
+SER00336,Saint Seiya,8,171,7.3
+SER00337,Flint Town,1,8,
+SER00338,Rake,5,40,8
+SER00339,Rilakkuma and Kaoru,1,13,7.5
+SER00340,Scooby-Doo! Mystery Incorporated,2,52,8
+SER00341,Anohana: The Flower We Saw That Day,1,11,7.3
+SER00342,Africa,1,6,7.7
+SER00343,The Frankenstein Chronicles,2,12,7.4
+SER00344,Meteor Garden,1,50,7.8
+SER00345,Wu Assassins,1,10,6.8
+SER00346,The Black Donnellys,1,13,7.6
+SER00347,H2O: Just Add Water,3,78,7.6
+SER00348,Collateral,1,4,7.9
+SER00349,1983,1,8,6.5
+SER00351,Black Butler,5,70,7.3
+SER00352,Green Eggs and Ham,2,23,7.3
+SER00353,The Confession Tapes,2,11,6.8
+SER00354,Bad Blood,2,14,7.6
+SER00355,Formula 1: Drive to Survive,8,78,7.6
+SER00356,The Great British Bake Off,17,157,8
+SER00357,The Trials of Gabriel Fernandez,1,6,7.9
+SER00358,Ugly Delicious,2,12,7.5
+SER00359,The Night Shift,4,45,8
+SER00360,Impractical Jokers,13,297,7.6
+SER00361,The Andy Griffith Show,8,249,7.8
+SER00362,Itaewon Class,1,16,7.7
+SER00363,Aquarius,2,26,7
+SER00365,Black Summer,2,16,6.8
+SER00366,Bonding,2,15,6.1
+SER00367,Miraculous: Les aventures de Ladybug et Chat Noir,6,155,7.3
+SER00368,Animaniacs,5,274,7.5
+SER00369,When Calls the Heart,13,138,7.9
+SER00370,Young & Hungry,5,71,7.5
+SER00371,Club de Cuervos,4,45,6.7
+SER00372,I'm Sorry,2,20,6.7
+SER00373,The Universe,9,88,7.8
+SER00374,Le Chalet,1,6,7.6
+SER00375,My Next Guest Needs No Introduction,6,27,6.7
+SER00376,Still Game,9,58,7.4
+SER00377,NOVA,53,1014,8.4
+SER00378,The Confession Killer,1,5,6.8
+SER00379,Father Brown,13,140,7.6
+SER00380,Bordertown,1,13,7
+SER00381,Battle Creek,1,13,7.3
+SER00383,Scream: The TV Series,3,28,7
+SER00384,Special,2,16,6.9
+SER00385,CSI: Miami,10,232,7.6
+SER00386,3Below: Tales of Arcadia,2,26,7.8
+SER00388,Dear White People,4,40,4.5
+SER00389,LEGO Ninjago: Masters of Spinjitzu,15,210,6.8
+SER00390,The English Game,1,6,7.1
+SER00391,White Gold,2,12,6
+SER00392,Crazyhead,1,6,7.1
+SER00393,The Protector,4,32,6.7
+SER00394,Dirty John,2,16,6.4
+SER00395,Get Shorty,3,27,8
+SER00396,30 for 30,4,142,4.3
+SER00397,Bard of Blood,1,7,
+SER00398,The Great Train Robbery,1,2,
+SER00399,Devilman Crybaby,1,10,7.3
+SER00400,Good Witch,7,68,8
+SER00401,It's Bruno!,1,8,5.4
+SER00403,Gentefied,2,18,5.1
+SER00404,Victorious,4,56,7.5
+SER00405,Dynasty,5,108,6.5
+SER00406,The Curious Creations of Christine McConnell,1,6,4
+SER00407,El Chapo,3,34,7.9
+SER00408,Trinkets,2,20,6.4
+SER00409,The Get Down,2,11,7.9
+SER00410,Masum,1,8,
+SER00411,My Little Pony: Friendship is Magic,9,221,7.6
+SER00412,Fuller House,5,75,5.6
+SER00413,Kill la Kill,1,24,6.9
+SER00414,Dark Tourist,1,8,7.4
+SER00415,Shtisel,3,33,8
+SER00416,Great News,2,23,6.3
+SER00417,Ouran High School Host Club,1,26,7.3
+SER00419,The Curse of Oak Island,13,257,6.7
+SER00420,Workin' Moms,7,83,6.6
+SER00421,Z Nation,5,68,7.2
+SER00422,Losers,1,8,
+SER00423,"Roswell, New Mexico",4,52,6.3
+SER00424,Comedians in Cars Getting Coffee,11,84,7.3
+SER00425,Conan,12,1501,7.7
+SER00426,The Guild,6,70,8
+SER00427,Friends from College,2,16,5.9
+SER00428,Wormwood,1,6,5.9
+SER00429,Watership Down,1,2,6.8
+SER00430,Mr. Sunshine,1,24,6.9
+SER00431,Bitten,3,33,7.4
+SER00432,No Game No Life,1,12,6.7
+SER00433,Violet Evergarden,1,13,7.7
+SER00434,Clannad,2,46,6.9
+SER00435,Gypsy,1,10,6.4
+SER00436,Virgin River,7,74,7.2
+SER00437,Gilmore Girls: A Year in the Life,1,4,7.5
+SER00438,The Innocent Man,1,6,7.3
+SER00439,Tuca & Bertie,3,30,6.5
+SER00440,#blackAF,1,8,5.3
+SER00441,Lovesick,3,22,7.3
+SER00442,Mr. Iglesias,3,21,6.8
+SER00443,Hot Girls Wanted: Turned On,1,6,8
+SER00444,Borgia,3,38,7
+SER00445,Trollhunters: Tales of Arcadia,3,52,7.8
+SER00446,La Reina del Sur,3,185,7.3
+SER00447,We Bare Bears,4,139,7.4
+SER00448,Liv & Maddie,4,80,7.5
+SER00449,In the Dark,4,52,6.7
+SER00452,Cleverman,2,12,7.1
+SER00454,The Pharmacist,1,4,7.6
+SER00455,Wet Hot American Summer: First Day of Camp,1,8,6.9
+SER00456,Vampire Knight,2,26,6.9
+SER00457,The Untamed,1,50,8
+SER00458,How to Sell Drugs Online (Fast),4,24,6.9
+SER00459,Taken,2,26,7.2
+SER00460,Transformers: Prime,3,65,6.8
+SER00461,Forensic Files,14,400,5.8
+SER00462,Paradise PD,4,40,7
+SER00466,The Messengers,1,13,6.7
+SER00468,Car Masters: Rust to Riches,6,48,6.8
+SER00469,Patriot Act with Hasan Minhaj,6,40,7.9
+SER00470,Damnation,1,10,7
+SER00471,Jericho,2,29,8
+SER00472,American Odyssey,1,13,6.8
+SER00473,Lab Rats,4,90,7.3
+SER00474,Little Things,4,29,
+SER00475,From Dusk Till Dawn: The Series,3,30,6.5
+SER00476,Grand Designs,28,257,8
+SER00477,Explained,3,44,6.8
+SER00478,Rhythm + Flow,2,20,5.8
+SER00479,Carole & Tuesday,1,24,6.8
+SER00480,Teresa,1,152,
+SER00481,The Innocents,1,8,5.5
+SER00482,Tabula Rasa,1,9,6.8
+SER00483,Seis Manos,1,8,6.7
+SER00484,The King: Eternal Monarch,1,16,8
+SER00486,Lady Dynamite,2,20,4.6
+SER00487,Sunderland 'Til I Die,3,17,7.1
+SER00488,Oliver Stone's Untold History of the United States,1,10,6.8
+SER00489,Toy Boy,2,21,7.8
+SER00490,Humsafar,1,23,
+SER00491,Crashing,1,6,7.6
+SER00493,AJ and the Queen,1,10,6.6
+SER00494,El Marginal,5,43,7
+SER00495,Giri/Haji,1,8,7.7
+SER00496,Van Helsing,5,65,6.8
+SER00498,Crossing Lines,3,34,7.6
+SER00499,The Eddy,1,8,7.6
+SER00500,A.D. The Bible Continues,1,12,6.1
+SER00501,The Letter for the King,1,6,6.6
+SER00503,Is It Wrong to Try to Pick Up Girls in a Dungeon?: Familia Myth,5,74,7.5
+SER00504,The Story of God with Morgan Freeman,3,15,6.9
+SER00505,Greenhouse Academy,4,40,5.6
+SER00506,Diagnosis,1,7,6
+SER00507,W/ Bob & David,1,4,7.1
+SER00508,Queen Sono,1,6,6.8
+SER00509,Rotten,2,12,7.1
+SER00510,Requiem,1,6,7.1
+SER00511,Aggretsuko,5,50,7.3
+SER00512,The Code,1,3,
+SER00513,October Faction,1,10,6.9
+SER00514,Rubí,1,115,
+SER00515,Arthdal Chronicles,2,30,7.3
+SER00516,The New Legends of Monkey,2,20,6.7
+SER00517,America's Funniest Home Videos,37,814,5.7
+SER00519,Something in the Rain,1,16,7.8
+SER00520,Adam Ruins Everything,3,64,7.2
+SER00521,The Heirs,1,20,7.6
+SER00522,Durarara!!,2,60,6.5
+SER00523,Beastars,3,48,7
+SER00525,Vagabond,1,16,7.7
+SER00527,Robotech,3,85,7.1
+SER00528,"The Mind, Explained",2,10,6.8
+SER00529,Boys over Flowers,1,25,7.1
+SER00530,V Wars,1,10,6.2
+SER00533,The Letdown,2,13,5.9
+SER00535,Power Rangers,30,974,6.5
+SER00536,Fate/Stay Night: Unlimited Blade Works,2,25,6.6
+SER00537,Bobby Kennedy for President,1,4,
+SER00538,The Mist,1,10,5.8
+SER00539,Hip-Hop Evolution,4,16,
+SER00540,Justice League Unlimited,3,39,7.9
+SER00541,Undercover,3,28,7.5
+SER00542,Slugterra,5,56,
+SER00543,The Final Table,1,10,6.7
+SER00544,Velvet,4,54,6.8
+SER00545,Criminal: UK,2,7,6.5
+SER00546,Salt Fat Acid Heat,1,4,6.8
+SER00548,Signal,1,16,8
+SER00549,The Rise of Phoenixes,1,70,7.8
+SER00550,The Family,1,5,7.2
+SER00551,Red vs. Blue,19,367,7.6
+SER00552,Huntik: Secrets & Seekers,2,52,5.7
+SER00553,Cells at Work!,2,21,7.3
+SER00554,Flaked,2,14,6.7
+SER00556,Too Hot to Handle,6,59,6.4
+SER00558,Wanted,3,18,7.6
+SER00559,Dad's Army,9,77,5.8
+SER00560,Bad Education,5,30,6.6
+SER00561,Angel Beats!,1,13,7.8
+SER00562,Dogs,2,10,
+SER00563,Fate/Stay Night,1,24,7.4
+SER00564,Brain Games,8,65,6.6
+SER00566,Girlboss,1,13,6.4
+SER00567,Il processo,1,8,7.8
+SER00569,What's New Scooby-Doo?,3,42,7.8
+SER00570,Teasing Master Takagi-san,3,36,7.4
+SER00571,Yu-Gi-Oh!,1,27,7.5
+SER00572,Blue Exorcist,5,73,7.4
+SER00574,WHAT / IF,1,10,6.4
+SER00575,The Assets,1,8,7.9
+SER00576,Baki,3,39,6.7
+SER00577,Nightflyers,1,10,6.4
+SER00578,Stranger,2,32,7.8
+SER00579,How to Fix a Drug Scandal,1,4,
+SER00580,Scissor Seven,5,54,
+SER00581,The Circle France,1,12,
+SER00582,Memories of the Alhambra,1,16,7.7
+SER00583,Republic of Doyle,6,77,8
+SER00584,Sick Note,2,14,6.3
+SER00585,The Last O.G.,4,40,4.8
+SER00586,Night on Earth,1,6,8
+SER00587,Börü,2,7,
+SER00588,Typewriter,1,5,4
+SER00589,Inspector Gadget,2,86,6.7
+SER00590,Sofia the First,4,107,6.4
+SER00591,Hap and Leonard,3,18,7.6
+SER00592,Jessie,4,99,7.4
+SER00593,I Think You Should Leave with Tim Robinson,3,18,5.8
+SER00594,Kipo and the Age of Wonderbeasts,3,30,7.2
+SER00595,K-ON!,2,37,7
+SER00597,Slasher,5,40,6.5
+SER00598,Freud,1,8,6.4
+SER00599,Between,2,12,6.5
+SER00600,Norm Macdonald Has a Show,1,10,5.3
+SER00601,Rita,5,40,6.9
+SER00602,She's Gotta Have It,2,19,6.6
+SER00603,The Nineties,1,7,
+SER00604,Casanova,1,3,7
+SER00605,The Good Cop,1,10,6.4
+SER00606,Bondi Rescue,18,217,7.9
+SER00607,Black Earth Rising,1,8,7.6
+SER00608,Tidelands,1,8,6.8
+SER00609,Nobel,1,7,7.8
+SER00611,"Drugs, Inc.",7,75,6.7
+SER00612,Midnight Diner: Tokyo Stories,2,20,7.7
+SER00613,Zindagi Gulzar Hai,1,26,
+SER00614,People Just Do Nothing,5,27,8
+SER00616,Man Like Mobeen,5,23,7.6
+SER00617,Turn Up Charlie,1,8,5.8
+SER00618,Tidying Up with Marie Kondo,1,8,
+SER00621,Toast of London,3,18,7.6
+SER00622,The Standups,3,18,6
+SER00623,World War II in Colour,1,13,
+SER00624,Roman Empire,3,15,7.3
+SER00625,Pandemic: How to Prevent an Outbreak,1,6,
+SER00626,The Windsors,3,18,6.2
+SER00627,A Korean Odyssey,1,20,6.8
+SER00628,Charité,4,24,6.9
+SER00629,The Bernie Mac Show,5,104,6.2
+SER00630,Charmed,4,72,5.5
+SER00631,Another Life,2,20,6.3
+SER00632,Cooked with Cannabis,1,6,
+SER00633,The Victims' Game,2,16,
+SER00634,The Joel McHale Show with Joel McHale,1,19,5.8
+SER00635,Who Killed Little Gregory?,1,5,
+SER00636,Round Planet,1,10,
+SER00637,La Familia P. Luche,2,36,
+SER00638,Medical Police,1,10,5.2
+SER00639,The Cleveland Show,4,88,7
+SER00641,Eternal Love,1,58,7
+SER00642,The Moaning of Life,2,11,7.8
+SER00643,B: The Beginning,2,18,6.5
+SER00644,The Mysteries of Laura,2,38,7.3
+SER00645,Selection Day,1,12,
+SER00646,Wanderlust,1,6,5.4
+SER00647,The Code,2,12,8
+SER00649,Magic for Humans,3,19,7
+SER00650,The Method,1,2,
+SER00651,Zone Blanche,2,16,7.2
+SER00652,Alexa & Katie,4,39,6.8
+SER00653,Good Morning Call,2,27,7.8
+SER00654,The Boss Baby: Back in Business,4,49,7.2
+SER00655,Shaka Zulu,1,10,
+SER00656,Winx Club,8,208,7.1
+SER00657,Sin Senos Sí Hay Paraíso,3,240,
+SER00658,Dogs of Berlin,1,10,6.9
+SER00662,Secret Love Affair,1,16,
+SER00663,La trêve,2,20,7.4
+SER00664,The Big Show Show,1,8,7.3
+SER00665,Fast & Furious: Spy Racers,6,52,6.8
+SER00667,Happyish,1,10,7.7
+SER00668,Chambers,1,10,6
+SER00669,White Lines,1,10,6.4
+SER00670,Dolly Parton's Heartstrings,1,8,6.7
+SER00671,Intelligence,2,25,7.4
+SER00672,"Coronavirus, Explained",1,3,
+SER00673,Velvet Colección,2,20,
+SER00674,Offspring,7,85,7.8
+SER00675,Terrace House: Tokyo 2019-2020,1,42,
+SER00676,Total Drama,6,117,6.7
+SER00677,Rebellion,1,5,6.1
+SER00679,Goosebumps,4,74,5.4
+SER00681,Somebody Feed Phil,8,49,8
+SER00682,Deep Water,1,4,7.7
+SER00683,Chelsea Does,1,4,
+SER00684,Life Sentence,1,13,5.6
+SER00685,You vs. Wild,1,8,
+SER00687,Cold Case Files,5,128,
+SER00688,Disjointed,1,20,5.8
+SER00689,Perfume,1,32,
+SER00690,Hitler's Circle of Evil,1,10,5.5
+SER00691,Kantaro: The Sweet Tooth Salaryman,1,12,
+SER00692,Terrace House: Boys & Girls in the City,1,46,
+SER00693,Girl from Nowhere,2,21,6.7
+SER00694,Aldnoah.Zero,2,24,6.9
+SER00695,Greenleaf,5,60,7.4
+SER00696,Dating Around,2,12,
+SER00698,Tales of the City,1,10,6.6
+SER00700,WWII in HD,1,10,
+SER00701,Sonic X,3,78,6.4
+SER00702,Ultraman,3,31,6.1
+SER00703,Rust Valley Restorers,5,50,5.6
+SER00704,Girls und Panzer,1,12,
+SER00705,Someone Like You,1,20,
+SER00707,Traitors,1,6,6.2
+SER00708,The World's Most Extraordinary Homes,2,12,
+SER00709,The Movies That Made Us,3,14,6.8
+SER00710,She,2,14,5
+SER00711,Alias J.J.,1,69,
+SER00713,Daniel Sloss: Live Shows,1,2,
+SER00714,Trial By Media,1,6,
+SER00715,The Lava Field,1,4,7.3
+SER00716,One of Us,1,4,7.1
+SER00717,Bella and the Bulldogs,2,40,7.2
+SER00718,Romance Is a Bonus Book,1,16,7.7
+SER00719,Wakfu,4,78,8
+SER00720,Bloodride,1,6,6.8
+SER00721,The Magic School Bus,4,52,5.3
+SER00722,La Mante,1,6,7
+SER00723,Next in Fashion,2,20,7.8
+SER00724,The Last Czars,1,6,5.1
+SER00725,My First First Love,2,16,7.3
+SER00726,"Sex, Explained",1,5,7
+SER00727,Put Your Head on My Shoulder,1,24,8
+SER00728,Win the Wilderness: Alaska,1,6,
+SER00729,Murder Mountain,1,6,
+SER00730,Hoarders,16,166,7.7
+SER00731,Luna Nera,1,6,7
+SER00733,Highway Thru Hell,14,204,7.6
+SER00735,Ben 10,5,169,6.9
+SER00736,Man to Man,1,16,6
+SER00737,Sym-Bionic Titan,1,20,6.7
+SER00738,Trigger Warning with Killer Mike,1,6,
+SER00739,The Worst Witch,4,52,6.8
+SER00740,Pee-Wee's Playhouse,5,45,7.4
+SER00741,La Doña,2,195,
+SER00742,Mobile Suit Gundam: Tekketsu no Orphans,2,50,7.1
+SER00743,Final Fantasy XIV: Dad of Light,1,8,
+SER00744,Champions,1,10,4.4
+SER00745,EastSiders,4,27,
+SER00746,Black,1,18,7.7
+SER00747,Busted!,3,28,
+SER00749,Vampires,1,6,7
+SER00750,Yunus Emre: Aşkın Yolculuğu,2,44,
+SER00751,My Babysitter's a Vampire,2,26,6
+SER00752,The Repair Shop,10,349,7.1
+SER00753,Queer Eye: We're in Japan,1,4,7.3
+SER00754,Vexed,2,9,6.8
+SER00755,Chosen,3,18,7.2
+SER00756,Super WHY!,3,103,5.8
+SER00757,Dope,3,12,6.1
+SER00758,American Masters,40,316,7.5
+SER00759,Highway to Heaven,5,108,7.4
+SER00761,The Sixties,1,10,
+SER00762,Hi Score Girl,2,24,7.2
+SER00763,Louis Theroux's Weird Weekends,3,16,7.6
+SER00764,When Heroes Fly,1,9,7.5
+SER00765,Paranoid,1,8,6.8
+SER00766,Haters Back Off!,2,16,4.2
+SER00769,Bunk'd,7,160,6.9
+SER00771,Samurai Gourmet,1,12,
+SER00772,Hospital Playlist,2,24,6.9
+SER00775,March comes in like a lion,2,44,
+SER00777,No Good Nick,1,20,5.4
+SER00779,Man Down,4,24,7.9
+SER00780,The Mind of a Chef,6,86,
+SER00781,Cinderella and the Four Knights,1,16,7.5
+SER00782,My Country,1,16,7.8
+SER00783,The Chase,4,55,
+SER00784,Cooked,1,4,
+SER00786,Ghost in the Shell: SAC_2045,2,24,6.2
+SER00787,Nicky Jam: El Ganador,1,13,
+SER00788,Prison Playbook,1,16,7.9
+SER00789,Sword Art Online Alternative: Gun Gale Online,2,24,6.2
+SER00790,Family Reunion,5,44,5.7
+SER00792,Land Girls,3,15,7.2
+SER00793,Degrassi: Next Class,4,40,5.9
+SER00794,Shadow of Truth,1,5,
+SER00795,Kiss Me First,1,6,6.5
+SER00797,Hellevator,2,12,
+SER00798,Northern Rescue,1,10,7.1
+SER00799,God Eater,1,13,6.8
+SER00800,Big Dreams Small Spaces,3,17,
+SER00847,PJ Masks,5,251,6.2
+SER00851,Ultraviolet,2,22,7.4
+SER00877,Hangar 1: The UFO Files,2,20,7.6
+SER00879,Marlon,2,20,6.5
+SER00894,The Legend of Bruce Lee,1,50,
+SER00908,The Dick Van Dyke Show,5,158,8
+SER00916,Super Wings,7,263,
+SER00924,Pocoyo,1,52,6.2
+SER00927,Skin Wars,3,29,
+SER00928,Dueños del Paraiso,1,71,
+SER00935,Great British Menu,21,814,7.7
+SER00945,Best Friends Whenever,2,31,
+SER00960,Nazi Megastructures,8,47,7.1
+SER00997,Yu-Gi-Oh ! Arc-V,1,148,
+SER01000,America's Book of Secrets,4,42,8
+SER01024,Fated to Love You,1,24,
+SER01026,The Bachelor,29,310,3
+SER01034,Dharmakshetra,1,26,
+SER01040,Rabbids Invasion,4,103,6.5
+SER01070,The Garfield Show,3,156,7.6
+SER01086,The Kindness Diaries,2,26,
+SER01125,Chuggington,6,129,
+SER01128,Steampunk'd,1,8,
+SER01142,Granblue Fantasy The Animation,2,24,
+SER01144,Geronimo Stilton,3,78,5.5
+SER01149,"Raja, Rasoi Aur Anya Kahaniyaan",4,45,
+SER01181,The Cat in the Hat Knows a Lot About That!,3,160,
+SER01208,Pac-Man and the Ghostly Adventures,2,52,
+SER01253,Pop Team Epic,2,24,
+SER01259,Oddbods,4,201,
+SER01274,Wildest Islands,2,10,
+SER01276,Inside West Coast Customs,8,77,
+SER01279,Bernard,1,52,
+SER01284,Moving On,12,65,6.8
+SER01304,Molang,5,251,5.2
+SER01319,Mother Goose Club,2,44,
+SER01322,Yu-Gi-Oh! Zexal,2,146,
+SER01324,Horrid Henry,5,250,
+SER01329,Booba,4,81,
+SER01341,Inside the Criminal Mind,1,4,
+SER01356,LEGO Friends,6,42,
+SER01358,Bat Pat,1,26,6.3
+SER01368,Some Assembly Required,3,57,
+SER01392,Monster Fish,8,53,
+SER01393,Ocean Mysteries with Jeff Corwin,5,113,
+SER01438,Earth to Luna!,2,33,5.8
+SER01466,Nurses Who Kill,3,30,
+SER01481,The Rap Game,5,56,
+SER01493,Hoff the Record,2,12,
+SER01557,Jack Hanna's Into the Wild,13,198,
+SER01563,Polly Pocket,6,168,4.7
+SER01577,WWII Battlefield Recovery,1,4,
+SER01605,Pororo The Little Penguin,6,234,5.8
+SER01658,Tayo the Little Bus,4,104,
+SER01674,Inside the Mind of a Serial Killer,2,20,
+SER01695,Vinnie Jones: Toughest Cops,1,6,
+SER01698,Mary Portas: Secret Shopper,3,12,
+SER01713,LEGO Friends: Girls on a Mission,3,38,6.3
+SER01726,Robot Trains,2,78,
+SER01769,Momo Salon,1,6,
+SER01786,Vroomiz,3,78,
+SER01890,Wildest Middle East,1,5,
+SER01910,My Little Baby,1,16,
+SER01932,Rick and Morty,9,91,8.7
+SER01933,Fargo,5,51,8.6
+SER01934,Vikings,6,89,8.6
+SER01935,Brooklyn Nine-Nine,8,153,8.1
+SER01936,The Simpsons,38,803,8.1
+SER01937,Lost,6,121,8.2
+SER01938,Prison Break,5,88,8.2
+SER01939,Modern Family,11,250,7.8
+SER01940,Firefly,1,14,9
+SER01941,Seinfeld,9,180,8.3
+SER01942,It's Always Sunny in Philadelphia,18,187,8.1
+SER01943,Killing Eve,4,32,8
+SER01944,South Park,28,335,8.2
+SER01945,How I Met Your Mother,9,208,7.8
+SER01946,Futurama,11,164,8.6
+SER01947,The Handmaid's Tale,6,66,7.4
+SER01948,Sons of Anarchy,7,92,8.3
+SER01949,Gravity Falls,2,40,8.8
+SER01950,What We Do in the Shadows,6,61,7.3
+SER01951,Archer,14,143,8.3
+SER01952,This Is Us,6,106,8
+SER01953,Pride and Prejudice,1,6,8
+SER01954,Justified,6,78,8.7
+SER01955,Scrubs,9,182,8.4
+SER01956,The X-Files,11,218,8.6
+SER01957,My Hero Academia,8,170,7.5
+SER01958,Adventure Time,10,278,7.8
+SER01959,24,9,204,8.2
+SER01960,White Collar,6,81,8.2
+SER01961,Friday Night Lights,5,76,8
+SER01962,Mr. Bean,1,14,8.1
+SER01963,Buffy the Vampire Slayer,7,144,8.5
+SER01964,Bob's Burgers,16,313,7.9
+SER01965,30 Rock,7,138,8
+SER01966,Legion,3,27,7.4
+SER01967,Elementary,7,154,8.3
+SER01968,Taboo,1,8,8.3
+SER01969,Atlanta,4,41,6.9
+SER01970,The Shield,7,88,8.6
+SER01971,Normal People,1,12,8
+SER01972,The Office,2,12,7.8
+SER01973,Black Books,3,18,8.4
+SER01974,Naruto: Shippūden,11,500,8.2
+SER01976,Misfits,5,36,7.8
+SER01977,Veronica Mars,4,72,8.5
+SER01978,11.22.63,1,8,7.7
+SER01979,Frasier,11,264,8
+SER01980,Line of Duty,6,36,8.6
+SER01981,Bones,12,246,8.1
+SER01982,Steins;Gate,1,24,8.3
+SER01983,The Killing,4,44,8.2
+SER01984,The Good Doctor,7,126,7.6
+SER01985,Preacher,4,43,8
+SER01986,The Orville,3,36,7.6
+SER01987,Peep Show,9,54,7.9
+SER01988,Desperate Housewives,8,180,7.6
+SER01989,RuPaul's Drag Race,18,254,5.6
+SER01990,Battlestar Galactica,4,73,8.7
+SER01991,Over the Garden Wall,1,10,8.1
+SER01992,Revenge,4,89,7.8
+SER01993,Tokyo Ghoul,4,48,7.4
+SER01994,Superstore,6,112,7.2
+SER01995,Lie to Me*,3,48,8
+SER01996,One Piece,28,1181,8.7
+SER01997,Spaced,2,14,8
+SER01998,12 Monkeys,4,47,7.7
+SER01999,Blue Bloods,14,293,8.1
+SER02008,Workaholics,7,86,7.3
+SER02009,Dead Like Me,2,29,8.1
+SER02017,Elfen Lied,1,13,7.4
+SER02024,Stargate SG·1,10,213,8.8
+SER02035,Marvel's Runaways,3,33,7
+SER02048,Awkward.,5,89,7.3
+SER02057,Chicago P.D.,14,266,8
+SER02072,Stargate Universe,2,40,8.1
+SER02085,Survivor,51,738,7.3
+SER02096,Stargate Atlantis,5,100,8.8
+SER02108,NYPD Blue,12,261,7.9
+SER02114,Cougar Town,6,102,7.5
+SER02132,Blackadder,4,24,8.4
+SER02133,The Hitchhiker's Guide to the Galaxy,1,6,8
+SER02166,Sesame Street,56,2973,8
+SER02167,Hell's Kitchen,25,379,6.8
+SER02170,The Amazing Race,39,466,6.8
+SER02175,Star vs. the Forces of Evil,4,134,7.8
+SER02181,Ghost Whisperer,5,107,7.7
+SER02192,Psycho-Pass,3,41,6.8
+SER02196,Shameless,11,138,8.1
+SER02197,Yu Yu Hakusho: Ghost Files,4,112,6.6
+SER02203,Flashpoint,5,75,7.7
+SER02238,America's Next Top Model,24,322,5.5
+SER02260,Rugrats,9,166,7.2
+SER02266,X-Men: Evolution,4,52,7.5
+SER02269,Good Luck Charlie,4,100,7.7
+SER02275,Dawson's Creek,6,128,7.4
+SER02278,Forged in Fire,11,271,7.7
+SER02280,Robin of Sherwood,3,26,7.6
+SER02283,Yu-Gi-Oh! GX,4,180,6.8
+SER02284,The League of Gentlemen,4,21,8
+SER02286,Silent Witness,29,268,7.6
+SER02303,How the Universe Works,11,92,8.5
+SER02308,The Outer Limits,7,154,7.9
+SER02319,Darker Than Black,2,37,6.9
+SER02326,Highlander,6,119,7.8
+SER02334,Sense and Sensibility,1,3,7.8
+SER02344,Survivorman,8,51,6.4
+SER02347,River Monsters,9,58,7.2
+SER02354,Man vs. Wild,7,66,8
+SER02359,DCI Banks,5,32,7.9
+SER02365,Kenichi the Mightiest Disciple,1,50,7.4
+SER02366,The Joy of Painting,31,403,7.1
+SER02369,McLeod's Daughters,8,224,7.8
+SER02388,The Pink Panther Show,4,124,7.7
+SER02389,The Guardian,3,67,7.3
+SER02393,Wolfblood,5,61,7.6
+SER02403,Being Erica,4,49,7.9
+SER02411,K.C. Undercover,3,75,7.6
+SER02412,Doug,8,169,7.2
+SER02423,Life Below Zero°,23,231,8
+SER02459,Running Wild with Bear Grylls,6,51,6.3
+SER02478,The Incredible Dr. Pol,24,248,8
+SER02681,Doc McStuffins,5,243,6.3
+SER02833,Handy Manny,3,208,
+SER03052,Sheriff Callie's Wild West,2,90,
+SER03122,Henry Hugglemonster,2,94,
+SER03253,Out There with Jack Randall,1,6,
+SER03368,Lost Treasures of Egypt,6,49,7.9
+SER05456,The Mandalorian,3,24,8.5
+SER05457,Star Wars: The Clone Wars,7,133,8.4
+SER05458,Marvel's Agent Carter,2,18,8
+SER05459,Star Wars: Rebels,4,69,7.9
+SER05460,DuckTales,3,69,7.3
+SER05461,X-Men,5,76,8
+SER05462,One Strange Rock,1,10,7.9
+SER05463,Spider-Man,5,65,8.1
+SER05464,High School Musical: The Musical: The Series,4,38,6.7
+SER05465,Boy Meets World,7,158,7.2
+SER05466,The Imagineering Story,1,6,6.3
+SER05467,Phineas and Ferb,5,260,7.3
+SER05468,DuckTales,4,100,8.2
+SER05469,Wizards of Waverly Place,4,106,7.8
+SER05470,Lizzie McGuire,2,65,7.2
+SER05471,Kim Possible,4,87,7.6
+SER05472,Recess,6,127,7.4
+SER05473,Wolverine and the X-Men,1,26,7.7
+SER05474,That's So Raven,4,100,7
+SER05475,The Avengers: Earth's Mightiest Heroes!,2,52,8
+SER05476,The World According to Jeff Goldblum,2,22,5.3
+SER05477,Gargoyles,3,78,7.5
+SER05478,Chip 'N Dale Rescue Rangers,3,65,7.6
+SER05479,The Suite Life of Zack and Cody,3,87,7.5
+SER05480,Girl Meets World,3,71,7.7
+SER05481,Darkwing Duck,3,91,7.9
+SER05482,Marvel's Ultimate Spider-Man,4,104,8
+SER05484,Tron: Uprising,1,19,7.8
+SER05485,The Suite Life on Deck,3,71,7.9
+SER05486,TaleSpin,1,65,7.6
+SER05487,Gordon Ramsay: Uncharted,4,29,7.8
+SER05488,The Muppets,1,16,7
+SER05489,Disney's Adventures of the Gummi Bears,6,95,7.6
+SER05490,Rapunzel's Tangled Adventure,3,59,7.3
+SER05491,Mickey Mouse Clubhouse,4,123,6.9
+SER05492,Hannah Montana,4,99,6.6
+SER05493,Kickin' It,4,85,
+SER05494,Violetta,3,240,
+SER05495,Marvel's Avengers Assemble,5,126,7.6
+SER05497,Even Stevens,3,65,
+SER05498,Austin & Ally,4,87,7.2
+SER05499,Star Wars: Resistance,2,38,6.6
+SER05500,Prop Culture,1,8,
+SER05501,Andi Mack,3,57,7.1
+SER05502,Sonny with a Chance,2,47,6.9
+SER05503,The New Adventures of Winnie the Pooh,4,82,7.2
+SER05505,Little Einsteins,2,68,
+SER05506,Raven's Home,6,121,4.5
+SER05507,Marvel's Inhumans,1,8,5.8
+SER05508,Marvel's Spider-Man,3,57,7.6
+SER05509,So Weird,3,65,
+SER05510,Diary of a Future President,2,20,6.6
+SER05511,Timon & Pumbaa,5,169,7.5
+SER05512,Milo Murphy's Law,2,72,7.2
+SER05513,Shake It Up,3,78,7
+SER05514,Marvel's Guardians of the Galaxy,3,77,7.6
+SER05515,Lilo & Stitch: The Series,2,67,6.8
+SER05517,Wicked Tuna,13,201,7.3
+SER05518,Encore!,1,12,5.4
+SER05519,Big City Greens,5,219,6.8
+SER05520,Phil of the Future,2,43,
+SER05521,The Proud Family,3,55,7.3
+SER05522,Elena of Avalor,3,78,7.6
+SER05523,Spider-Man Unlimited,1,13,6.6
+SER05524,Amphibia,3,106,7.7
+SER05525,Iron Man: Armored Adventures,2,52,6.8
+SER05526,Dr. K's Exotic Animal ER,9,84,7.4
+SER05527,Spider-Man and His Amazing Friends,3,24,7.3
+SER05528,Big Hero 6: The Series,3,67,6.2
+SER05529,Goof Troop,1,65,5.7
+SER05530,Sydney to the Max,3,63,7.1
+SER05531,The Super Hero Squad Show,2,52,
+SER05532,Puppy Dog Pals,5,232,7.3
+SER05533,The Incredible Hulk,2,21,5.9
+SER05534,One Day at Disney,1,51,
+SER05535,Quack Pack,1,39,3.2
+SER05536,I Didn't Do It,2,39,
+SER05537,The Emperor's New School,2,90,7
+SER05538,Coop & Cami Ask the World,2,49,7
+SER05539,Hostile Planet,1,6,7.3
+SER05540,Stuck in the Middle,3,57,6.8
+SER05541,Bonkers,4,63,6.3
+SER05542,Fantastic Four: World's Greatest Heroes,1,26,6.1
+SER05543,Randy Cunningham: 9th Grade Ninja,2,100,
+SER05544,Fantastic Four,2,26,6.9
